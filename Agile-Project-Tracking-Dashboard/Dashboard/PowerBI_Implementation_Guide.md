@@ -125,8 +125,8 @@ Use a professional Jira-inspired palette:
 3. Publish to Power BI Service if available.
 4. Add the report link to `README.md`.
 
-## 8. Resume Positioning
+## 8. Portfolio Positioning
 
 This project can be described as:
 
-> Developed a Jira-inspired Agile Project Tracking Dashboard using Power BI and Excel to monitor sprint delivery, backlog progress, team utilization, task completion, risks, and project health KPIs for Scrum and operations reporting.
+> A Jira-inspired Agile Project Tracking Dashboard using Power BI and Excel to monitor sprint delivery, backlog progress, team utilization, task completion, risks, and project health KPIs for Scrum and operations reporting.

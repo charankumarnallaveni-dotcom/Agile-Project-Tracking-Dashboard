@@ -334,29 +334,6 @@ h3 {
   line-height: 1.5;
 }
 
-.resume-section {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(320px, 0.9fr);
-  gap: 28px;
-  background: var(--navy);
-  color: var(--white);
-}
-
-.resume-section .eyebrow {
-  color: #b3d4ff;
-}
-
-.resume-section p {
-  color: #deebff;
-  line-height: 1.65;
-}
-
-.resume-box {
-  padding: 24px;
-  border-radius: 8px;
-  background: rgba(255, 255, 255, 0.08);
-}
-
 footer {
   display: flex;
   justify-content: space-between;
@@ -392,8 +369,7 @@ footer a {
 
   .hero,
   .dashboard-view,
-  .split,
-  .resume-section {
+  .split {
     grid-template-columns: 1fr;
   }
 

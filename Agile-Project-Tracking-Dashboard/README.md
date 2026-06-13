@@ -58,7 +58,7 @@ Open the root-level `index.html` file to view:
 - Dashboard mockups
 - KPI summary
 - Downloadable artifacts
-- Resume-ready positioning
+- Project role and skills summary
 
 When GitHub Pages is enabled, use the root `index.html` as the landing page.
 
@@ -258,6 +258,6 @@ node Scripts/generate_agile_dataset.mjs
 - Publish to Power BI Service with scheduled refresh.
 - Add row-level security by department or Scrum team.
 
-## Resume Summary
+## Project Summary
 
-**Agile Project Tracking Dashboard**: Developed a Jira-inspired Power BI dashboard using Excel and DAX to monitor sprint progress, backlog tracking, task completion, resource utilization, delivery risks, and stakeholder reporting KPIs across 620 simulated Agile task records.
+**Agile Project Tracking Dashboard**: A Jira-inspired Power BI dashboard project using Excel and DAX to monitor sprint progress, backlog tracking, task completion, resource utilization, delivery risks, and stakeholder reporting KPIs across 620 simulated Agile task records.

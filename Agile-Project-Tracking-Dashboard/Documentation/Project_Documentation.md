@@ -114,7 +114,7 @@ Highlights operational risks and delivery blockers:
 - DAX for KPI measures.
 - GitHub for portfolio presentation and project versioning.
 
-## Target Resume Roles
+## Target Portfolio Roles
 
 This project is designed for final-year engineering students applying for:
 
@@ -122,7 +122,3 @@ This project is designed for final-year engineering students applying for:
 - Project Coordinator Intern
 - Operations Intern
 - Business Analyst Intern
-
-## Resume Bullet
-
-Developed a Jira-inspired Agile Project Tracking Dashboard using Excel, Power BI, and DAX to monitor sprint progress, backlog status, task completion, resource utilization, project risks, and stakeholder reporting KPIs across 620 simulated Agile task records.
