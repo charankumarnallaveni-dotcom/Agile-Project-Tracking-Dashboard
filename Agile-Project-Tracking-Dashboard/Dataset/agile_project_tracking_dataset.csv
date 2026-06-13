@@ -1,0 +1,621 @@
+Task ID,Epic,Sprint Name,Team Member,Priority,Story Points,Task Status,Start Date,Due Date,Completion Date,Department,Risk Level,Estimated Hours,Actual Hours,Delay Reason,Sprint Start Date,Sprint End Date,Cycle Time Days,Is Overdue,Completed Flag
+APT-0001,Data Quality Remediation,Sprint 04 - 2025,Rohan Gupta,Low,3,Testing,2025-02-16,2025-02-23,,Data Analytics,Medium,11,13,UAT Feedback,2025-02-16,2025-03-01,0,Yes,0
+APT-0002,Customer Onboarding Automation,Sprint 02 - 2025,Aarav Mehta,Low,8,Done,2025-01-23,2025-01-27,2025-01-29,Operations,High,54,68,Environment Issue,2025-01-19,2025-02-01,5,Yes,1
+APT-0003,Stakeholder Notification Service,Sprint 11 - 2025,Vikram Singh,High,5,Done,2025-05-31,2025-06-10,2025-06-09,QA,Low,20,23,None,2025-05-25,2025-06-07,8,No,1
+APT-0004,Sprint Reporting Hub,Sprint 03 - 2025,Arjun Menon,Medium,3,Done,2025-02-09,2025-02-20,2025-02-21,Customer Success,Low,12,15,Resource Constraint,2025-02-02,2025-02-15,11,Yes,1
+APT-0005,Backlog Prioritization Framework,Sprint 09 - 2025,Zoya Fernandes,Medium,2,Done,2025-04-29,2025-05-08,2025-05-08,QA,Low,8,9,None,2025-04-27,2025-05-10,8,No,1
+APT-0006,Billing Workflow Optimization,Sprint 02 - 2025,Isha Sharma,Low,13,Done,2025-01-22,2025-02-01,2025-01-30,QA,Medium,76,74,None,2025-01-19,2025-02-01,7,No,1
+APT-0007,Stakeholder Notification Service,Sprint 11 - 2025,Rohan Gupta,Critical,3,Done,2025-05-27,2025-06-03,2025-06-03,Engineering,Low,16,18,None,2025-05-25,2025-06-07,6,No,1
+APT-0008,Stakeholder Notification Service,Sprint 05 - 2025,Arjun Menon,Medium,8,Testing,2025-03-10,2025-03-18,,Data Analytics,High,59,58,Environment Issue,2025-03-02,2025-03-15,0,Yes,0
+APT-0009,Data Quality Remediation,Sprint 10 - 2025,Isha Sharma,Medium,1,Done,2025-05-14,2025-05-21,2025-05-19,Customer Success,Medium,5,6,None,2025-05-11,2025-05-24,4,No,1
+APT-0010,Mobile Experience Improvements,Sprint 07 - 2025,Sara Thomas,Low,8,Done,2025-04-05,2025-04-13,2025-04-14,Product,High,53,71,Requirement Change,2025-03-30,2025-04-12,8,Yes,1
+APT-0011,User Access Governance,Sprint 06 - 2025,Sara Thomas,Medium,1,Done,2025-03-19,2025-03-27,2025-03-26,Operations,Medium,4,4,None,2025-03-16,2025-03-29,6,No,1
+APT-0012,Data Quality Remediation,Sprint 05 - 2025,Vikram Singh,High,8,Done,2025-03-06,2025-03-15,2025-03-15,Operations,Low,32,31,None,2025-03-02,2025-03-15,8,No,1
+APT-0013,Sprint Reporting Hub,Sprint 10 - 2025,Rohan Gupta,Medium,3,Done,2025-05-17,2025-05-25,2025-05-25,Operations,Medium,18,24,None,2025-05-11,2025-05-24,7,No,1
+APT-0014,Backlog Prioritization Framework,Sprint 09 - 2025,Rohan Gupta,Low,8,To Do,2025-04-29,2025-05-05,,Product,Low,44,0,Resource Constraint,2025-04-27,2025-05-10,0,Yes,0
+APT-0015,API Reliability Upgrade,Sprint 07 - 2025,Zoya Fernandes,Critical,8,Testing,2025-04-07,2025-04-17,,Product,Low,34,33,Environment Issue,2025-03-30,2025-04-12,0,Yes,0
+APT-0016,Sprint Reporting Hub,Sprint 12 - 2025,Vikram Singh,High,5,Done,2025-06-14,2025-06-21,2025-06-21,Customer Success,Medium,30,33,None,2025-06-08,2025-06-21,6,No,1
+APT-0017,Operations SLA Dashboard,Sprint 03 - 2025,Isha Sharma,Medium,13,Done,2025-02-05,2025-02-12,2025-02-14,Engineering,Low,50,48,Requirement Change,2025-02-02,2025-02-15,8,Yes,1
+APT-0018,Data Quality Remediation,Sprint 10 - 2025,Zoya Fernandes,Low,3,Testing,2025-05-13,2025-05-25,,Product,High,20,18,Environment Issue,2025-05-11,2025-05-24,0,Yes,0
+APT-0019,Operations SLA Dashboard,Sprint 02 - 2025,Meera Nair,High,8,Done,2025-01-25,2025-01-28,2025-01-28,Operations,Low,45,56,None,2025-01-19,2025-02-01,2,No,1
+APT-0020,Backlog Prioritization Framework,Sprint 09 - 2025,Arjun Menon,Medium,5,Done,2025-05-05,2025-05-10,2025-05-11,QA,Low,20,22,Scope Clarification,2025-04-27,2025-05-10,5,Yes,1
+APT-0021,Sprint Reporting Hub,Sprint 10 - 2025,Kabir Khan,Medium,5,In Progress,2025-05-18,2025-05-27,,Operations,Low,26,14,Scope Clarification,2025-05-11,2025-05-24,0,Yes,0
+APT-0022,Stakeholder Notification Service,Sprint 03 - 2025,Dev Patel,Low,3,Done,2025-02-06,2025-02-13,2025-02-14,QA,Low,16,14,Scope Clarification,2025-02-02,2025-02-15,7,Yes,1
+APT-0023,Billing Workflow Optimization,Sprint 12 - 2025,Ananya Rao,Medium,5,Done,2025-06-15,2025-06-20,2025-06-21,Customer Success,Medium,22,30,Environment Issue,2025-06-08,2025-06-21,5,Yes,1
+APT-0024,Backlog Prioritization Framework,Sprint 12 - 2025,Ananya Rao,Medium,8,In Progress,2025-06-11,2025-06-17,,Product,Medium,51,39,Dependency Blocker,2025-06-08,2025-06-21,0,Yes,0
+APT-0025,Mobile Experience Improvements,Sprint 09 - 2025,Vikram Singh,Medium,5,Done,2025-05-03,2025-05-07,2025-05-09,Engineering,Medium,31,43,Requirement Change,2025-04-27,2025-05-10,5,Yes,1
+APT-0026,Billing Workflow Optimization,Sprint 04 - 2025,Zoya Fernandes,Medium,5,Done,2025-02-18,2025-02-27,2025-02-25,Product,Low,27,33,None,2025-02-16,2025-03-01,6,No,1
+APT-0027,Backlog Prioritization Framework,Sprint 06 - 2025,Kabir Khan,Medium,3,Done,2025-03-24,2025-03-30,2025-03-28,Engineering,Low,16,18,None,2025-03-16,2025-03-29,3,No,1
+APT-0028,API Reliability Upgrade,Sprint 01 - 2025,Vikram Singh,Medium,2,Done,2025-01-05,2025-01-13,2025-01-11,Engineering,Medium,13,16,None,2025-01-05,2025-01-18,5,No,1
+APT-0029,API Reliability Upgrade,Sprint 07 - 2025,Zoya Fernandes,Low,5,Done,2025-04-03,2025-04-08,2025-04-10,Operations,Medium,31,35,UAT Feedback,2025-03-30,2025-04-12,6,Yes,1
+APT-0030,Billing Workflow Optimization,Sprint 05 - 2025,Kabir Khan,High,5,Done,2025-03-05,2025-03-12,2025-03-12,Operations,Medium,23,24,None,2025-03-02,2025-03-15,6,No,1
+APT-0031,Sprint Reporting Hub,Sprint 12 - 2025,Sara Thomas,Medium,5,In Progress,2025-06-11,2025-06-19,,Data Analytics,Medium,21,10,UAT Feedback,2025-06-08,2025-06-21,0,Yes,0
+APT-0032,User Access Governance,Sprint 05 - 2025,Dev Patel,Medium,3,Done,2025-03-04,2025-03-12,2025-03-13,Data Analytics,Low,10,11,Scope Clarification,2025-03-02,2025-03-15,8,Yes,1
+APT-0033,API Reliability Upgrade,Sprint 11 - 2025,Neha Verma,Medium,3,Done,2025-05-29,2025-06-02,2025-06-02,Operations,Low,15,14,None,2025-05-25,2025-06-07,3,No,1
+APT-0034,Data Quality Remediation,Sprint 11 - 2025,Vikram Singh,Critical,2,Done,2025-05-29,2025-06-03,2025-06-05,QA,Low,13,15,UAT Feedback,2025-05-25,2025-06-07,6,Yes,1
+APT-0035,User Access Governance,Sprint 07 - 2025,Ananya Rao,Medium,3,Done,2025-04-06,2025-04-16,2025-04-16,Engineering,High,16,18,None,2025-03-30,2025-04-12,9,No,1
+APT-0036,Billing Workflow Optimization,Sprint 08 - 2025,Sara Thomas,Medium,2,Done,2025-04-16,2025-04-20,2025-04-20,QA,Medium,12,13,None,2025-04-13,2025-04-26,3,No,1
+APT-0037,Sprint Reporting Hub,Sprint 09 - 2025,Isha Sharma,Medium,3,Done,2025-05-05,2025-05-15,2025-05-13,Product,Low,11,10,None,2025-04-27,2025-05-10,7,No,1
+APT-0038,Backlog Prioritization Framework,Sprint 05 - 2025,Isha Sharma,Medium,3,Done,2025-03-04,2025-03-14,2025-03-16,Operations,Low,13,16,Scope Clarification,2025-03-02,2025-03-15,11,Yes,1
+APT-0039,Backlog Prioritization Framework,Sprint 07 - 2025,Isha Sharma,Medium,3,Testing,2025-04-05,2025-04-11,,Engineering,Medium,15,13,UAT Feedback,2025-03-30,2025-04-12,0,Yes,0
+APT-0040,API Reliability Upgrade,Sprint 11 - 2025,Aarav Mehta,High,3,Done,2025-05-30,2025-06-03,2025-06-09,Data Analytics,High,21,23,Scope Clarification,2025-05-25,2025-06-07,9,Yes,1
+APT-0041,Customer Onboarding Automation,Sprint 07 - 2025,Zoya Fernandes,Medium,1,Done,2025-03-31,2025-04-03,2025-04-03,Customer Success,Medium,7,9,None,2025-03-30,2025-04-12,2,No,1
+APT-0042,Customer Onboarding Automation,Sprint 03 - 2025,Zoya Fernandes,High,3,Done,2025-02-06,2025-02-11,2025-02-11,Engineering,High,16,23,None,2025-02-02,2025-02-15,4,No,1
+APT-0043,Operations SLA Dashboard,Sprint 08 - 2025,Ananya Rao,Low,5,To Do,2025-04-18,2025-04-28,,Customer Success,Medium,23,0,Scope Clarification,2025-04-13,2025-04-26,0,Yes,0
+APT-0044,User Access Governance,Sprint 06 - 2025,Kabir Khan,Low,2,Done,2025-03-18,2025-03-28,2025-03-30,Product,Low,9,8,Scope Clarification,2025-03-16,2025-03-29,11,Yes,1
+APT-0045,Sprint Reporting Hub,Sprint 11 - 2025,Rohan Gupta,Critical,1,Done,2025-06-02,2025-06-12,2025-06-14,Product,Low,5,5,UAT Feedback,2025-05-25,2025-06-07,11,Yes,1
+APT-0046,Mobile Experience Improvements,Sprint 08 - 2025,Ananya Rao,High,2,Done,2025-04-18,2025-04-29,2025-05-01,Data Analytics,Low,7,9,Scope Clarification,2025-04-13,2025-04-26,12,Yes,1
+APT-0047,API Reliability Upgrade,Sprint 06 - 2025,Neha Verma,Low,1,In Progress,2025-03-18,2025-03-24,,Product,High,6,3,Scope Clarification,2025-03-16,2025-03-29,0,Yes,0
+APT-0048,Customer Onboarding Automation,Sprint 02 - 2025,Sara Thomas,Low,8,Testing,2025-01-23,2025-02-01,,Operations,High,35,43,Requirement Change,2025-01-19,2025-02-01,0,Yes,0
+APT-0049,Sprint Reporting Hub,Sprint 02 - 2025,Meera Nair,Low,5,Done,2025-01-21,2025-01-25,2025-01-27,Customer Success,Medium,25,31,Dependency Blocker,2025-01-19,2025-02-01,5,Yes,1
+APT-0050,Operations SLA Dashboard,Sprint 12 - 2025,Arjun Menon,Critical,5,Done,2025-06-12,2025-06-19,2025-06-20,Operations,High,30,35,Scope Clarification,2025-06-08,2025-06-21,7,Yes,1
+APT-0051,Stakeholder Notification Service,Sprint 02 - 2025,Rohan Gupta,High,3,To Do,2025-01-25,2025-01-31,,Engineering,Medium,17,0,Requirement Change,2025-01-19,2025-02-01,0,Yes,0
+APT-0052,Billing Workflow Optimization,Sprint 03 - 2025,Meera Nair,Low,3,Done,2025-02-06,2025-02-13,2025-02-13,Operations,Low,10,10,None,2025-02-02,2025-02-15,6,No,1
+APT-0053,Billing Workflow Optimization,Sprint 11 - 2025,Ananya Rao,High,2,Done,2025-05-25,2025-06-06,2025-06-06,Customer Success,Low,10,11,None,2025-05-25,2025-06-07,11,No,1
+APT-0054,Stakeholder Notification Service,Sprint 09 - 2025,Meera Nair,Low,8,Done,2025-04-30,2025-05-05,2025-05-05,Operations,High,47,57,None,2025-04-27,2025-05-10,4,No,1
+APT-0055,Customer Onboarding Automation,Sprint 11 - 2025,Dev Patel,Medium,1,Done,2025-05-26,2025-06-04,2025-06-05,Engineering,Low,4,4,Resource Constraint,2025-05-25,2025-06-07,9,Yes,1
+APT-0056,Data Quality Remediation,Sprint 12 - 2025,Zoya Fernandes,Low,3,Testing,2025-06-15,2025-06-23,,Product,Medium,18,14,Scope Clarification,2025-06-08,2025-06-21,0,Yes,0
+APT-0057,Backlog Prioritization Framework,Sprint 01 - 2025,Kabir Khan,High,5,Testing,2025-01-09,2025-01-14,,Engineering,Low,18,15,Requirement Change,2025-01-05,2025-01-18,0,Yes,0
+APT-0058,Mobile Experience Improvements,Sprint 07 - 2025,Neha Verma,High,3,Done,2025-03-30,2025-04-09,2025-04-09,Engineering,Medium,16,17,None,2025-03-30,2025-04-12,9,No,1
+APT-0059,Operations SLA Dashboard,Sprint 11 - 2025,Arjun Menon,Medium,8,Done,2025-05-31,2025-06-06,2025-06-06,Engineering,Medium,53,60,None,2025-05-25,2025-06-07,5,No,1
+APT-0060,API Reliability Upgrade,Sprint 11 - 2025,Ananya Rao,Low,2,Testing,2025-05-29,2025-06-08,,Operations,Medium,12,12,Requirement Change,2025-05-25,2025-06-07,0,Yes,0
+APT-0061,Billing Workflow Optimization,Sprint 09 - 2025,Meera Nair,High,3,Done,2025-05-01,2025-05-05,2025-05-05,Engineering,High,21,27,None,2025-04-27,2025-05-10,3,No,1
+APT-0062,Backlog Prioritization Framework,Sprint 05 - 2025,Zoya Fernandes,Medium,8,Done,2025-03-10,2025-03-17,2025-03-17,Operations,Low,41,45,None,2025-03-02,2025-03-15,6,No,1
+APT-0063,Stakeholder Notification Service,Sprint 07 - 2025,Ananya Rao,High,8,Done,2025-04-05,2025-04-12,2025-04-11,Operations,Medium,36,49,None,2025-03-30,2025-04-12,5,No,1
+APT-0064,Operations SLA Dashboard,Sprint 10 - 2025,Aarav Mehta,Critical,8,Done,2025-05-17,2025-05-29,2025-05-27,Customer Success,Low,56,58,None,2025-05-11,2025-05-24,9,No,1
+APT-0065,Billing Workflow Optimization,Sprint 03 - 2025,Zoya Fernandes,High,3,Done,2025-02-07,2025-02-14,2025-02-16,QA,Low,17,19,Environment Issue,2025-02-02,2025-02-15,8,Yes,1
+APT-0066,API Reliability Upgrade,Sprint 04 - 2025,Kabir Khan,Low,2,Done,2025-02-19,2025-02-28,2025-02-28,Customer Success,Low,9,11,None,2025-02-16,2025-03-01,8,No,1
+APT-0067,API Reliability Upgrade,Sprint 09 - 2025,Meera Nair,Medium,5,Testing,2025-05-05,2025-05-08,,Customer Success,Low,27,24,Environment Issue,2025-04-27,2025-05-10,0,Yes,0
+APT-0068,Billing Workflow Optimization,Sprint 08 - 2025,Ananya Rao,High,13,Done,2025-04-17,2025-04-26,2025-04-26,Customer Success,Low,72,83,None,2025-04-13,2025-04-26,8,No,1
+APT-0069,Stakeholder Notification Service,Sprint 10 - 2025,Ananya Rao,High,5,To Do,2025-05-13,2025-05-19,,Engineering,Low,23,0,Scope Clarification,2025-05-11,2025-05-24,0,Yes,0
+APT-0070,Data Quality Remediation,Sprint 10 - 2025,Meera Nair,Critical,5,In Progress,2025-05-16,2025-05-24,,QA,Low,34,20,Dependency Blocker,2025-05-11,2025-05-24,0,Yes,0
+APT-0071,Stakeholder Notification Service,Sprint 01 - 2025,Neha Verma,High,5,Done,2025-01-09,2025-01-19,2025-01-20,QA,Low,28,28,Scope Clarification,2025-01-05,2025-01-18,10,Yes,1
+APT-0072,Billing Workflow Optimization,Sprint 11 - 2025,Meera Nair,Low,5,Done,2025-05-29,2025-06-02,2025-06-02,Engineering,Low,18,19,None,2025-05-25,2025-06-07,3,No,1
+APT-0073,User Access Governance,Sprint 02 - 2025,Neha Verma,Medium,2,Done,2025-01-24,2025-01-30,2025-01-30,Engineering,High,13,17,None,2025-01-19,2025-02-01,5,No,1
+APT-0074,User Access Governance,Sprint 06 - 2025,Zoya Fernandes,High,8,Done,2025-03-18,2025-03-22,2025-03-23,QA,Medium,51,59,Scope Clarification,2025-03-16,2025-03-29,4,Yes,1
+APT-0075,Mobile Experience Improvements,Sprint 05 - 2025,Sara Thomas,Medium,3,To Do,2025-03-03,2025-03-12,,Engineering,Low,12,0,UAT Feedback,2025-03-02,2025-03-15,0,Yes,0
+APT-0076,Sprint Reporting Hub,Sprint 11 - 2025,Vikram Singh,Medium,5,Done,2025-05-26,2025-05-30,2025-05-31,Engineering,High,33,36,Environment Issue,2025-05-25,2025-06-07,4,Yes,1
+APT-0077,Backlog Prioritization Framework,Sprint 11 - 2025,Ananya Rao,Medium,8,In Progress,2025-05-30,2025-06-09,,Customer Success,Low,41,30,Environment Issue,2025-05-25,2025-06-07,0,Yes,0
+APT-0078,Customer Onboarding Automation,Sprint 03 - 2025,Vikram Singh,High,8,Done,2025-02-07,2025-02-13,2025-02-14,Customer Success,Medium,39,53,Requirement Change,2025-02-02,2025-02-15,6,Yes,1
+APT-0079,Customer Onboarding Automation,Sprint 05 - 2025,Arjun Menon,Low,3,Testing,2025-03-04,2025-03-16,,QA,High,17,18,Requirement Change,2025-03-02,2025-03-15,0,Yes,0
+APT-0080,Billing Workflow Optimization,Sprint 12 - 2025,Neha Verma,Medium,1,Done,2025-06-12,2025-06-23,2025-06-23,Operations,High,8,9,None,2025-06-08,2025-06-21,10,No,1
+APT-0081,User Access Governance,Sprint 07 - 2025,Arjun Menon,Medium,5,Done,2025-04-06,2025-04-15,2025-04-17,Customer Success,Low,18,19,Environment Issue,2025-03-30,2025-04-12,10,Yes,1
+APT-0082,Stakeholder Notification Service,Sprint 10 - 2025,Aarav Mehta,Medium,8,Done,2025-05-14,2025-05-25,2025-05-25,QA,Low,29,28,None,2025-05-11,2025-05-24,10,No,1
+APT-0083,Customer Onboarding Automation,Sprint 08 - 2025,Sara Thomas,Medium,3,Done,2025-04-13,2025-04-19,2025-04-19,Operations,Medium,15,16,None,2025-04-13,2025-04-26,5,No,1
+APT-0084,Backlog Prioritization Framework,Sprint 03 - 2025,Kabir Khan,Medium,2,Done,2025-02-06,2025-02-09,2025-02-10,Engineering,High,14,19,Requirement Change,2025-02-02,2025-02-15,3,Yes,1
+APT-0085,Data Quality Remediation,Sprint 03 - 2025,Rohan Gupta,Medium,3,Done,2025-02-05,2025-02-09,2025-02-11,QA,Low,13,14,Requirement Change,2025-02-02,2025-02-15,5,Yes,1
+APT-0086,Mobile Experience Improvements,Sprint 03 - 2025,Isha Sharma,High,2,Done,2025-02-10,2025-02-14,2025-02-14,Data Analytics,Medium,12,14,None,2025-02-02,2025-02-15,3,No,1
+APT-0087,Mobile Experience Improvements,Sprint 04 - 2025,Ananya Rao,Medium,3,Done,2025-02-19,2025-03-02,2025-03-05,Data Analytics,Medium,17,16,Resource Constraint,2025-02-16,2025-03-01,13,Yes,1
+APT-0088,Customer Onboarding Automation,Sprint 12 - 2025,Zoya Fernandes,Medium,8,In Progress,2025-06-14,2025-06-22,,Engineering,Low,30,11,Environment Issue,2025-06-08,2025-06-21,0,Yes,0
+APT-0089,Mobile Experience Improvements,Sprint 10 - 2025,Dev Patel,Low,3,Done,2025-05-13,2025-05-23,2025-05-25,Customer Success,Medium,17,15,UAT Feedback,2025-05-11,2025-05-24,11,Yes,1
+APT-0090,Mobile Experience Improvements,Sprint 06 - 2025,Sara Thomas,High,5,Done,2025-03-16,2025-03-28,2025-03-30,Operations,Low,32,38,Requirement Change,2025-03-16,2025-03-29,13,Yes,1
+APT-0091,Billing Workflow Optimization,Sprint 06 - 2025,Dev Patel,Critical,3,Done,2025-03-16,2025-03-20,2025-03-18,Product,Low,18,17,None,2025-03-16,2025-03-29,1,No,1
+APT-0092,Customer Onboarding Automation,Sprint 12 - 2025,Vikram Singh,Low,3,Done,2025-06-11,2025-06-20,2025-06-20,Engineering,Low,14,12,None,2025-06-08,2025-06-21,8,No,1
+APT-0093,Data Quality Remediation,Sprint 09 - 2025,Zoya Fernandes,Medium,3,Done,2025-05-02,2025-05-05,2025-05-07,QA,Low,10,9,Resource Constraint,2025-04-27,2025-05-10,4,Yes,1
+APT-0094,Backlog Prioritization Framework,Sprint 11 - 2025,Rohan Gupta,Low,2,Done,2025-05-27,2025-05-30,2025-05-30,Operations,Low,8,10,None,2025-05-25,2025-06-07,2,No,1
+APT-0095,Customer Onboarding Automation,Sprint 05 - 2025,Isha Sharma,Medium,1,Done,2025-03-09,2025-03-13,2025-03-12,Operations,Medium,6,7,None,2025-03-02,2025-03-15,2,No,1
+APT-0096,Sprint Reporting Hub,Sprint 07 - 2025,Arjun Menon,High,2,Done,2025-04-01,2025-04-04,2025-04-04,Engineering,Medium,13,15,None,2025-03-30,2025-04-12,2,No,1
+APT-0097,Customer Onboarding Automation,Sprint 10 - 2025,Sara Thomas,Critical,5,Done,2025-05-19,2025-05-29,2025-05-30,Operations,Low,30,26,Environment Issue,2025-05-11,2025-05-24,10,Yes,1
+APT-0098,Stakeholder Notification Service,Sprint 12 - 2025,Neha Verma,High,3,To Do,2025-06-14,2025-06-17,,Data Analytics,Medium,17,0,Requirement Change,2025-06-08,2025-06-21,0,Yes,0
+APT-0099,Mobile Experience Improvements,Sprint 01 - 2025,Vikram Singh,Critical,13,In Progress,2025-01-10,2025-01-22,,Customer Success,High,72,38,Environment Issue,2025-01-05,2025-01-18,0,Yes,0
+APT-0100,Mobile Experience Improvements,Sprint 03 - 2025,Dev Patel,Medium,2,Done,2025-02-04,2025-02-15,2025-02-18,QA,High,14,19,Scope Clarification,2025-02-02,2025-02-15,13,Yes,1
+APT-0101,Backlog Prioritization Framework,Sprint 04 - 2025,Isha Sharma,Medium,3,Done,2025-02-24,2025-02-28,2025-02-28,QA,High,21,32,None,2025-02-16,2025-03-01,3,No,1
+APT-0102,Mobile Experience Improvements,Sprint 05 - 2025,Sara Thomas,Medium,5,In Progress,2025-03-09,2025-03-12,,Product,Medium,23,10,Requirement Change,2025-03-02,2025-03-15,0,Yes,0
+APT-0103,Sprint Reporting Hub,Sprint 09 - 2025,Isha Sharma,High,3,Done,2025-04-27,2025-05-02,2025-05-02,Product,Medium,20,23,None,2025-04-27,2025-05-10,4,No,1
+APT-0104,Data Quality Remediation,Sprint 11 - 2025,Dev Patel,Low,3,Done,2025-05-26,2025-06-04,2025-06-04,Data Analytics,Medium,14,15,None,2025-05-25,2025-06-07,8,No,1
+APT-0105,Data Quality Remediation,Sprint 10 - 2025,Arjun Menon,High,3,Done,2025-05-18,2025-05-27,2025-05-29,Data Analytics,Medium,15,14,Resource Constraint,2025-05-11,2025-05-24,10,Yes,1
+APT-0106,Billing Workflow Optimization,Sprint 07 - 2025,Vikram Singh,Low,8,To Do,2025-04-01,2025-04-08,,Engineering,Low,27,0,Dependency Blocker,2025-03-30,2025-04-12,0,Yes,0
+APT-0107,Customer Onboarding Automation,Sprint 03 - 2025,Neha Verma,Low,2,In Progress,2025-02-03,2025-02-11,,Engineering,Low,7,4,Requirement Change,2025-02-02,2025-02-15,0,Yes,0
+APT-0108,User Access Governance,Sprint 01 - 2025,Kabir Khan,High,2,Done,2025-01-11,2025-01-15,2025-01-15,Data Analytics,Medium,10,13,None,2025-01-05,2025-01-18,3,No,1
+APT-0109,API Reliability Upgrade,Sprint 11 - 2025,Kabir Khan,High,13,Done,2025-06-01,2025-06-10,2025-06-12,QA,Low,69,71,UAT Feedback,2025-05-25,2025-06-07,10,Yes,1
+APT-0110,Sprint Reporting Hub,Sprint 06 - 2025,Sara Thomas,Medium,1,Testing,2025-03-20,2025-03-26,,Customer Success,Medium,4,5,Dependency Blocker,2025-03-16,2025-03-29,0,Yes,0
+APT-0111,Billing Workflow Optimization,Sprint 05 - 2025,Zoya Fernandes,Medium,2,Done,2025-03-08,2025-03-20,2025-03-23,Customer Success,Medium,11,14,Environment Issue,2025-03-02,2025-03-15,14,Yes,1
+APT-0112,Stakeholder Notification Service,Sprint 04 - 2025,Zoya Fernandes,Low,2,Testing,2025-02-24,2025-03-05,,Customer Success,High,8,8,Dependency Blocker,2025-02-16,2025-03-01,0,Yes,0
+APT-0113,Sprint Reporting Hub,Sprint 10 - 2025,Sara Thomas,Medium,3,Testing,2025-05-16,2025-05-27,,Product,Low,15,12,Environment Issue,2025-05-11,2025-05-24,0,Yes,0
+APT-0114,Backlog Prioritization Framework,Sprint 09 - 2025,Vikram Singh,Low,8,Testing,2025-05-02,2025-05-12,,Data Analytics,Medium,30,23,Environment Issue,2025-04-27,2025-05-10,0,Yes,0
+APT-0115,Stakeholder Notification Service,Sprint 02 - 2025,Arjun Menon,Low,3,To Do,2025-01-21,2025-01-30,,QA,Medium,14,0,UAT Feedback,2025-01-19,2025-02-01,0,Yes,0
+APT-0116,Stakeholder Notification Service,Sprint 12 - 2025,Meera Nair,Medium,5,Done,2025-06-13,2025-06-25,2025-06-24,Engineering,High,34,51,None,2025-06-08,2025-06-21,10,No,1
+APT-0117,API Reliability Upgrade,Sprint 11 - 2025,Meera Nair,Low,1,Done,2025-05-27,2025-06-08,2025-06-08,Product,Low,4,3,None,2025-05-25,2025-06-07,11,No,1
+APT-0118,Customer Onboarding Automation,Sprint 03 - 2025,Arjun Menon,Medium,5,In Progress,2025-02-10,2025-02-15,,Customer Success,Medium,28,12,Dependency Blocker,2025-02-02,2025-02-15,0,Yes,0
+APT-0119,Backlog Prioritization Framework,Sprint 04 - 2025,Kabir Khan,High,1,Done,2025-02-17,2025-03-01,2025-03-02,QA,Medium,7,8,Requirement Change,2025-02-16,2025-03-01,12,Yes,1
+APT-0120,Data Quality Remediation,Sprint 11 - 2025,Dev Patel,High,2,Done,2025-05-25,2025-05-29,2025-05-29,Customer Success,Low,9,10,None,2025-05-25,2025-06-07,3,No,1
+APT-0121,Operations SLA Dashboard,Sprint 08 - 2025,Dev Patel,High,5,Done,2025-04-17,2025-04-28,2025-04-29,Customer Success,High,41,59,Environment Issue,2025-04-13,2025-04-26,11,Yes,1
+APT-0122,Sprint Reporting Hub,Sprint 08 - 2025,Dev Patel,Medium,3,In Progress,2025-04-20,2025-04-29,,Operations,Low,10,8,Scope Clarification,2025-04-13,2025-04-26,0,Yes,0
+APT-0123,Mobile Experience Improvements,Sprint 04 - 2025,Vikram Singh,High,8,In Progress,2025-02-17,2025-02-23,,Customer Success,Medium,39,22,Dependency Blocker,2025-02-16,2025-03-01,0,Yes,0
+APT-0124,Operations SLA Dashboard,Sprint 11 - 2025,Rohan Gupta,High,2,To Do,2025-05-31,2025-06-12,,Data Analytics,Medium,15,0,UAT Feedback,2025-05-25,2025-06-07,0,Yes,0
+APT-0125,Sprint Reporting Hub,Sprint 05 - 2025,Meera Nair,Medium,3,Done,2025-03-05,2025-03-14,2025-03-16,Operations,Medium,14,18,Scope Clarification,2025-03-02,2025-03-15,10,Yes,1
+APT-0126,Customer Onboarding Automation,Sprint 08 - 2025,Kabir Khan,High,3,Done,2025-04-17,2025-04-25,2025-04-25,Operations,Medium,15,17,None,2025-04-13,2025-04-26,7,No,1
+APT-0127,API Reliability Upgrade,Sprint 12 - 2025,Sara Thomas,Medium,1,To Do,2025-06-12,2025-06-24,,Data Analytics,Low,5,0,Resource Constraint,2025-06-08,2025-06-21,0,Yes,0
+APT-0128,Operations SLA Dashboard,Sprint 07 - 2025,Rohan Gupta,Medium,8,Done,2025-04-06,2025-04-13,2025-04-12,QA,Low,44,49,None,2025-03-30,2025-04-12,5,No,1
+APT-0129,Backlog Prioritization Framework,Sprint 12 - 2025,Vikram Singh,High,1,Done,2025-06-10,2025-06-15,2025-06-17,Operations,Medium,4,4,UAT Feedback,2025-06-08,2025-06-21,6,Yes,1
+APT-0130,Backlog Prioritization Framework,Sprint 09 - 2025,Sara Thomas,Medium,1,To Do,2025-04-30,2025-05-03,,Customer Success,High,7,0,Dependency Blocker,2025-04-27,2025-05-10,0,Yes,0
+APT-0131,Data Quality Remediation,Sprint 01 - 2025,Rohan Gupta,Low,3,In Progress,2025-01-07,2025-01-19,,Product,Low,10,5,Scope Clarification,2025-01-05,2025-01-18,0,Yes,0
+APT-0132,Backlog Prioritization Framework,Sprint 02 - 2025,Aarav Mehta,Low,3,Done,2025-01-22,2025-01-29,2025-01-29,Customer Success,High,15,18,None,2025-01-19,2025-02-01,6,No,1
+APT-0133,Data Quality Remediation,Sprint 02 - 2025,Meera Nair,High,13,Done,2025-01-27,2025-01-31,2025-02-01,QA,High,65,90,Requirement Change,2025-01-19,2025-02-01,4,Yes,1
+APT-0134,Operations SLA Dashboard,Sprint 11 - 2025,Meera Nair,Critical,5,Testing,2025-06-01,2025-06-08,,Engineering,High,30,32,Environment Issue,2025-05-25,2025-06-07,0,Yes,0
+APT-0135,Mobile Experience Improvements,Sprint 11 - 2025,Aarav Mehta,Critical,3,Done,2025-05-27,2025-06-08,2025-06-11,Product,Medium,21,26,Requirement Change,2025-05-25,2025-06-07,14,Yes,1
+APT-0136,Mobile Experience Improvements,Sprint 05 - 2025,Ananya Rao,Medium,2,Done,2025-03-07,2025-03-11,2025-03-13,Customer Success,Low,8,6,Scope Clarification,2025-03-02,2025-03-15,5,Yes,1
+APT-0137,Sprint Reporting Hub,Sprint 12 - 2025,Rohan Gupta,Medium,3,Done,2025-06-09,2025-06-16,2025-06-16,Customer Success,Low,14,16,None,2025-06-08,2025-06-21,6,No,1
+APT-0138,Customer Onboarding Automation,Sprint 08 - 2025,Isha Sharma,Medium,2,Done,2025-04-20,2025-04-29,2025-04-29,Customer Success,High,15,22,None,2025-04-13,2025-04-26,8,No,1
+APT-0139,Customer Onboarding Automation,Sprint 11 - 2025,Dev Patel,Medium,3,Done,2025-05-30,2025-06-05,2025-06-04,Product,Medium,14,18,None,2025-05-25,2025-06-07,4,No,1
+APT-0140,Sprint Reporting Hub,Sprint 08 - 2025,Aarav Mehta,High,8,Done,2025-04-20,2025-05-01,2025-05-03,Customer Success,Low,44,48,Dependency Blocker,2025-04-13,2025-04-26,12,Yes,1
+APT-0141,Sprint Reporting Hub,Sprint 10 - 2025,Dev Patel,Medium,13,Done,2025-05-11,2025-05-22,2025-05-24,Customer Success,High,59,87,Environment Issue,2025-05-11,2025-05-24,12,Yes,1
+APT-0142,Stakeholder Notification Service,Sprint 07 - 2025,Rohan Gupta,Medium,8,Done,2025-03-31,2025-04-09,2025-04-09,Data Analytics,Low,44,49,None,2025-03-30,2025-04-12,8,No,1
+APT-0143,Sprint Reporting Hub,Sprint 04 - 2025,Kabir Khan,Critical,3,Done,2025-02-23,2025-02-27,2025-03-01,Operations,Medium,15,18,Scope Clarification,2025-02-16,2025-03-01,5,Yes,1
+APT-0144,Billing Workflow Optimization,Sprint 03 - 2025,Sara Thomas,Medium,1,Done,2025-02-04,2025-02-12,2025-02-12,Data Analytics,Low,4,5,None,2025-02-02,2025-02-15,7,No,1
+APT-0145,API Reliability Upgrade,Sprint 02 - 2025,Rohan Gupta,High,2,Done,2025-01-21,2025-01-29,2025-01-28,QA,High,12,18,None,2025-01-19,2025-02-01,6,No,1
+APT-0146,Customer Onboarding Automation,Sprint 02 - 2025,Ananya Rao,Medium,2,Done,2025-01-26,2025-02-06,2025-02-06,Data Analytics,Medium,10,12,None,2025-01-19,2025-02-01,10,No,1
+APT-0147,Mobile Experience Improvements,Sprint 10 - 2025,Vikram Singh,Low,2,Done,2025-05-19,2025-05-27,2025-05-28,QA,Medium,12,12,Resource Constraint,2025-05-11,2025-05-24,8,Yes,1
+APT-0148,Billing Workflow Optimization,Sprint 03 - 2025,Vikram Singh,Medium,3,Testing,2025-02-03,2025-02-15,,QA,Medium,16,14,Environment Issue,2025-02-02,2025-02-15,0,Yes,0
+APT-0149,User Access Governance,Sprint 09 - 2025,Zoya Fernandes,High,5,Done,2025-05-04,2025-05-14,2025-05-13,Data Analytics,Medium,24,26,None,2025-04-27,2025-05-10,8,No,1
+APT-0150,Backlog Prioritization Framework,Sprint 08 - 2025,Kabir Khan,Medium,3,Done,2025-04-18,2025-04-25,2025-04-24,Data Analytics,Medium,13,14,None,2025-04-13,2025-04-26,5,No,1
+APT-0151,Operations SLA Dashboard,Sprint 03 - 2025,Dev Patel,High,3,Done,2025-02-04,2025-02-12,2025-02-12,Customer Success,Low,16,14,None,2025-02-02,2025-02-15,7,No,1
+APT-0152,Mobile Experience Improvements,Sprint 02 - 2025,Dev Patel,Critical,2,Done,2025-01-22,2025-01-29,2025-01-30,Customer Success,Medium,12,15,Environment Issue,2025-01-19,2025-02-01,7,Yes,1
+APT-0153,Operations SLA Dashboard,Sprint 10 - 2025,Vikram Singh,Medium,5,Done,2025-05-19,2025-05-24,2025-05-24,Data Analytics,Low,17,18,None,2025-05-11,2025-05-24,4,No,1
+APT-0154,Stakeholder Notification Service,Sprint 07 - 2025,Zoya Fernandes,High,5,Done,2025-04-03,2025-04-10,2025-04-10,Customer Success,Low,28,35,None,2025-03-30,2025-04-12,6,No,1
+APT-0155,Customer Onboarding Automation,Sprint 01 - 2025,Neha Verma,High,5,To Do,2025-01-13,2025-01-22,,Data Analytics,Low,30,0,Resource Constraint,2025-01-05,2025-01-18,0,Yes,0
+APT-0156,User Access Governance,Sprint 06 - 2025,Zoya Fernandes,Low,5,Done,2025-03-19,2025-03-22,2025-03-24,Product,Low,21,20,Resource Constraint,2025-03-16,2025-03-29,4,Yes,1
+APT-0157,API Reliability Upgrade,Sprint 02 - 2025,Aarav Mehta,Low,1,Done,2025-01-20,2025-01-23,2025-01-24,Product,High,6,8,Dependency Blocker,2025-01-19,2025-02-01,3,Yes,1
+APT-0158,Stakeholder Notification Service,Sprint 10 - 2025,Arjun Menon,Medium,1,Done,2025-05-11,2025-05-19,2025-05-22,Product,Medium,6,8,Environment Issue,2025-05-11,2025-05-24,10,Yes,1
+APT-0159,API Reliability Upgrade,Sprint 02 - 2025,Kabir Khan,Low,13,Testing,2025-01-21,2025-01-29,,Operations,Low,41,35,Resource Constraint,2025-01-19,2025-02-01,0,Yes,0
+APT-0160,Stakeholder Notification Service,Sprint 08 - 2025,Rohan Gupta,Medium,3,Done,2025-04-13,2025-04-21,2025-04-23,Data Analytics,Low,14,16,Dependency Blocker,2025-04-13,2025-04-26,9,Yes,1
+APT-0161,Stakeholder Notification Service,Sprint 01 - 2025,Sara Thomas,High,5,Done,2025-01-07,2025-01-16,2025-01-16,Engineering,Low,29,30,None,2025-01-05,2025-01-18,8,No,1
+APT-0162,Data Quality Remediation,Sprint 04 - 2025,Sara Thomas,High,13,Done,2025-02-20,2025-02-27,2025-02-28,Product,Low,46,44,Resource Constraint,2025-02-16,2025-03-01,7,Yes,1
+APT-0163,Customer Onboarding Automation,Sprint 10 - 2025,Ananya Rao,Medium,3,Done,2025-05-16,2025-05-25,2025-05-24,Product,Low,15,16,None,2025-05-11,2025-05-24,7,No,1
+APT-0164,Stakeholder Notification Service,Sprint 10 - 2025,Rohan Gupta,Medium,5,Done,2025-05-18,2025-05-27,2025-05-26,Operations,Low,22,19,None,2025-05-11,2025-05-24,7,No,1
+APT-0165,Billing Workflow Optimization,Sprint 05 - 2025,Zoya Fernandes,Low,2,Done,2025-03-09,2025-03-18,2025-03-17,Data Analytics,Medium,10,9,None,2025-03-02,2025-03-15,7,No,1
+APT-0166,Stakeholder Notification Service,Sprint 08 - 2025,Arjun Menon,Critical,2,Done,2025-04-21,2025-05-01,2025-05-01,Engineering,Low,13,15,None,2025-04-13,2025-04-26,9,No,1
+APT-0167,Sprint Reporting Hub,Sprint 11 - 2025,Zoya Fernandes,High,1,Done,2025-06-02,2025-06-06,2025-06-06,QA,Medium,7,8,None,2025-05-25,2025-06-07,3,No,1
+APT-0168,Billing Workflow Optimization,Sprint 05 - 2025,Ananya Rao,Low,5,Done,2025-03-09,2025-03-20,2025-03-21,Product,Low,16,16,Environment Issue,2025-03-02,2025-03-15,11,Yes,1
+APT-0169,Mobile Experience Improvements,Sprint 04 - 2025,Ananya Rao,Low,5,In Progress,2025-02-23,2025-03-05,,Product,Low,22,12,Scope Clarification,2025-02-16,2025-03-01,0,Yes,0
+APT-0170,Mobile Experience Improvements,Sprint 08 - 2025,Kabir Khan,Medium,8,Done,2025-04-17,2025-04-21,2025-04-21,Customer Success,Low,36,36,None,2025-04-13,2025-04-26,3,No,1
+APT-0171,Operations SLA Dashboard,Sprint 05 - 2025,Aarav Mehta,High,2,Done,2025-03-08,2025-03-20,2025-03-20,QA,Low,12,10,None,2025-03-02,2025-03-15,11,No,1
+APT-0172,Backlog Prioritization Framework,Sprint 06 - 2025,Isha Sharma,Medium,3,Done,2025-03-23,2025-03-31,2025-03-30,Product,Low,11,9,None,2025-03-16,2025-03-29,6,No,1
+APT-0173,Operations SLA Dashboard,Sprint 12 - 2025,Kabir Khan,Medium,5,In Progress,2025-06-08,2025-06-20,,Product,Low,16,8,Resource Constraint,2025-06-08,2025-06-21,0,Yes,0
+APT-0174,Stakeholder Notification Service,Sprint 06 - 2025,Dev Patel,Medium,3,Done,2025-03-16,2025-03-23,2025-03-24,Customer Success,Medium,12,15,Requirement Change,2025-03-16,2025-03-29,7,Yes,1
+APT-0175,API Reliability Upgrade,Sprint 06 - 2025,Zoya Fernandes,Low,2,Done,2025-03-23,2025-03-27,2025-03-27,Product,Medium,9,9,None,2025-03-16,2025-03-29,3,No,1
+APT-0176,API Reliability Upgrade,Sprint 04 - 2025,Sara Thomas,Low,2,Done,2025-02-19,2025-02-26,2025-02-28,Customer Success,Medium,9,9,UAT Feedback,2025-02-16,2025-03-01,8,Yes,1
+APT-0177,Mobile Experience Improvements,Sprint 11 - 2025,Sara Thomas,Low,8,Done,2025-05-28,2025-06-05,2025-06-05,Data Analytics,Low,28,25,None,2025-05-25,2025-06-07,7,No,1
+APT-0178,Customer Onboarding Automation,Sprint 10 - 2025,Meera Nair,Medium,3,Testing,2025-05-16,2025-05-25,,Engineering,Medium,15,15,Requirement Change,2025-05-11,2025-05-24,0,Yes,0
+APT-0179,Billing Workflow Optimization,Sprint 07 - 2025,Aarav Mehta,Low,3,In Progress,2025-04-06,2025-04-09,,Operations,High,20,14,Requirement Change,2025-03-30,2025-04-12,0,Yes,0
+APT-0180,Customer Onboarding Automation,Sprint 01 - 2025,Zoya Fernandes,Medium,2,Done,2025-01-05,2025-01-14,2025-01-16,Product,Medium,8,10,Environment Issue,2025-01-05,2025-01-18,10,Yes,1
+APT-0181,Sprint Reporting Hub,Sprint 09 - 2025,Ananya Rao,Low,1,Done,2025-04-27,2025-05-09,2025-05-09,Data Analytics,Medium,5,6,None,2025-04-27,2025-05-10,11,No,1
+APT-0182,Backlog Prioritization Framework,Sprint 11 - 2025,Dev Patel,Medium,5,Done,2025-05-27,2025-06-04,2025-06-04,Operations,High,21,23,None,2025-05-25,2025-06-07,7,No,1
+APT-0183,User Access Governance,Sprint 02 - 2025,Meera Nair,Low,1,Done,2025-01-24,2025-01-29,2025-01-30,Operations,Medium,6,7,Scope Clarification,2025-01-19,2025-02-01,5,Yes,1
+APT-0184,Customer Onboarding Automation,Sprint 02 - 2025,Meera Nair,Medium,2,Done,2025-01-20,2025-01-29,2025-01-29,Operations,High,11,17,None,2025-01-19,2025-02-01,8,No,1
+APT-0185,Mobile Experience Improvements,Sprint 04 - 2025,Ananya Rao,High,3,Done,2025-02-16,2025-02-23,2025-02-21,QA,Medium,21,23,None,2025-02-16,2025-03-01,4,No,1
+APT-0186,Backlog Prioritization Framework,Sprint 11 - 2025,Zoya Fernandes,Medium,1,In Progress,2025-06-02,2025-06-07,,Customer Success,Low,4,2,UAT Feedback,2025-05-25,2025-06-07,0,Yes,0
+APT-0187,Backlog Prioritization Framework,Sprint 02 - 2025,Sara Thomas,Medium,3,Done,2025-01-25,2025-01-29,2025-01-29,Product,High,21,30,None,2025-01-19,2025-02-01,3,No,1
+APT-0188,Billing Workflow Optimization,Sprint 04 - 2025,Kabir Khan,High,3,Done,2025-02-23,2025-02-26,2025-02-27,Engineering,Medium,17,20,Environment Issue,2025-02-16,2025-03-01,3,Yes,1
+APT-0189,Stakeholder Notification Service,Sprint 01 - 2025,Aarav Mehta,Medium,5,Done,2025-01-06,2025-01-17,2025-01-19,Product,Low,19,17,Environment Issue,2025-01-05,2025-01-18,12,Yes,1
+APT-0190,User Access Governance,Sprint 10 - 2025,Aarav Mehta,Low,3,Done,2025-05-18,2025-05-26,2025-05-27,Product,High,20,23,Requirement Change,2025-05-11,2025-05-24,8,Yes,1
+APT-0191,Mobile Experience Improvements,Sprint 12 - 2025,Aarav Mehta,High,5,To Do,2025-06-09,2025-06-18,,Data Analytics,High,41,0,Requirement Change,2025-06-08,2025-06-21,0,Yes,0
+APT-0192,Operations SLA Dashboard,Sprint 05 - 2025,Zoya Fernandes,Medium,5,To Do,2025-03-10,2025-03-20,,Engineering,Low,19,0,Requirement Change,2025-03-02,2025-03-15,0,Yes,0
+APT-0193,Sprint Reporting Hub,Sprint 05 - 2025,Rohan Gupta,Medium,5,Done,2025-03-07,2025-03-11,2025-03-12,Operations,Medium,24,27,Dependency Blocker,2025-03-02,2025-03-15,4,Yes,1
+APT-0194,API Reliability Upgrade,Sprint 06 - 2025,Neha Verma,Medium,5,Testing,2025-03-20,2025-03-30,,Engineering,Low,19,18,Environment Issue,2025-03-16,2025-03-29,0,Yes,0
+APT-0195,Mobile Experience Improvements,Sprint 09 - 2025,Aarav Mehta,High,2,Done,2025-04-27,2025-05-09,2025-05-11,QA,High,16,17,Resource Constraint,2025-04-27,2025-05-10,13,Yes,1
+APT-0196,Operations SLA Dashboard,Sprint 01 - 2025,Sara Thomas,High,1,Done,2025-01-10,2025-01-20,2025-01-20,Product,Medium,6,6,None,2025-01-05,2025-01-18,9,No,1
+APT-0197,API Reliability Upgrade,Sprint 12 - 2025,Ananya Rao,Medium,5,In Progress,2025-06-10,2025-06-19,,Customer Success,High,37,25,Requirement Change,2025-06-08,2025-06-21,0,Yes,0
+APT-0198,Stakeholder Notification Service,Sprint 08 - 2025,Vikram Singh,Medium,1,Done,2025-04-21,2025-04-28,2025-04-30,Operations,Low,5,6,Scope Clarification,2025-04-13,2025-04-26,8,Yes,1
+APT-0199,Mobile Experience Improvements,Sprint 10 - 2025,Arjun Menon,Medium,5,Done,2025-05-15,2025-05-18,2025-05-18,Customer Success,Low,28,34,None,2025-05-11,2025-05-24,2,No,1
+APT-0200,Billing Workflow Optimization,Sprint 07 - 2025,Ananya Rao,Critical,8,In Progress,2025-03-30,2025-04-03,,QA,Low,52,40,Resource Constraint,2025-03-30,2025-04-12,0,Yes,0
+APT-0201,Stakeholder Notification Service,Sprint 11 - 2025,Zoya Fernandes,Medium,2,In Progress,2025-06-01,2025-06-10,,Operations,Low,10,4,UAT Feedback,2025-05-25,2025-06-07,0,Yes,0
+APT-0202,Stakeholder Notification Service,Sprint 12 - 2025,Zoya Fernandes,Medium,8,Done,2025-06-09,2025-06-17,2025-06-17,Customer Success,Low,30,31,None,2025-06-08,2025-06-21,7,No,1
+APT-0203,Data Quality Remediation,Sprint 01 - 2025,Aarav Mehta,High,3,Testing,2025-01-05,2025-01-14,,Customer Success,Medium,15,17,Environment Issue,2025-01-05,2025-01-18,0,Yes,0
+APT-0204,User Access Governance,Sprint 11 - 2025,Aarav Mehta,High,5,In Progress,2025-06-02,2025-06-12,,Data Analytics,Low,23,14,Dependency Blocker,2025-05-25,2025-06-07,0,Yes,0
+APT-0205,Data Quality Remediation,Sprint 09 - 2025,Kabir Khan,Low,8,Testing,2025-04-30,2025-05-04,,Engineering,Low,34,34,UAT Feedback,2025-04-27,2025-05-10,0,Yes,0
+APT-0206,Stakeholder Notification Service,Sprint 07 - 2025,Sara Thomas,Critical,5,Done,2025-03-31,2025-04-11,2025-04-11,Operations,Medium,35,45,None,2025-03-30,2025-04-12,10,No,1
+APT-0207,Customer Onboarding Automation,Sprint 10 - 2025,Aarav Mehta,Medium,2,To Do,2025-05-17,2025-05-21,,Operations,Medium,11,0,Resource Constraint,2025-05-11,2025-05-24,0,Yes,0
+APT-0208,Data Quality Remediation,Sprint 09 - 2025,Rohan Gupta,High,1,Done,2025-04-29,2025-05-06,2025-05-09,Product,Medium,5,5,Scope Clarification,2025-04-27,2025-05-10,9,Yes,1
+APT-0209,Mobile Experience Improvements,Sprint 01 - 2025,Vikram Singh,Critical,13,Done,2025-01-09,2025-01-19,2025-01-19,Data Analytics,High,69,94,None,2025-01-05,2025-01-18,9,No,1
+APT-0210,Data Quality Remediation,Sprint 10 - 2025,Meera Nair,Medium,5,Done,2025-05-12,2025-05-22,2025-05-22,Customer Success,Medium,31,37,None,2025-05-11,2025-05-24,9,No,1
+APT-0211,Stakeholder Notification Service,Sprint 08 - 2025,Zoya Fernandes,Critical,3,Done,2025-04-16,2025-04-26,2025-04-25,Product,High,17,25,None,2025-04-13,2025-04-26,8,No,1
+APT-0212,Mobile Experience Improvements,Sprint 06 - 2025,Meera Nair,Medium,3,Done,2025-03-23,2025-03-28,2025-03-26,QA,Medium,19,25,None,2025-03-16,2025-03-29,2,No,1
+APT-0213,Operations SLA Dashboard,Sprint 03 - 2025,Neha Verma,Critical,5,To Do,2025-02-07,2025-02-16,,Customer Success,Low,33,0,Dependency Blocker,2025-02-02,2025-02-15,0,Yes,0
+APT-0214,API Reliability Upgrade,Sprint 09 - 2025,Zoya Fernandes,High,8,Testing,2025-05-04,2025-05-11,,Operations,Medium,45,43,Resource Constraint,2025-04-27,2025-05-10,0,Yes,0
+APT-0215,Backlog Prioritization Framework,Sprint 08 - 2025,Rohan Gupta,Medium,5,Done,2025-04-14,2025-04-26,2025-04-25,Data Analytics,Medium,22,25,None,2025-04-13,2025-04-26,10,No,1
+APT-0216,Backlog Prioritization Framework,Sprint 10 - 2025,Arjun Menon,Critical,13,Done,2025-05-15,2025-05-19,2025-05-17,Engineering,High,89,108,None,2025-05-11,2025-05-24,1,No,1
+APT-0217,Mobile Experience Improvements,Sprint 11 - 2025,Rohan Gupta,Low,5,Done,2025-05-29,2025-06-01,2025-05-31,Engineering,Low,17,17,None,2025-05-25,2025-06-07,1,No,1
+APT-0218,Sprint Reporting Hub,Sprint 12 - 2025,Kabir Khan,High,3,Done,2025-06-11,2025-06-18,2025-06-19,Engineering,Low,19,19,Dependency Blocker,2025-06-08,2025-06-21,7,Yes,1
+APT-0219,Operations SLA Dashboard,Sprint 08 - 2025,Arjun Menon,High,1,Done,2025-04-21,2025-04-24,2025-04-24,Product,Medium,5,5,None,2025-04-13,2025-04-26,2,No,1
+APT-0220,Customer Onboarding Automation,Sprint 10 - 2025,Arjun Menon,Medium,8,In Progress,2025-05-13,2025-05-23,,Operations,High,58,36,Environment Issue,2025-05-11,2025-05-24,0,Yes,0
+APT-0221,Customer Onboarding Automation,Sprint 05 - 2025,Dev Patel,High,5,Done,2025-03-02,2025-03-09,2025-03-11,Customer Success,High,37,39,Requirement Change,2025-03-02,2025-03-15,8,Yes,1
+APT-0222,Backlog Prioritization Framework,Sprint 07 - 2025,Rohan Gupta,High,2,Done,2025-03-30,2025-04-11,2025-04-12,Product,Low,7,8,UAT Feedback,2025-03-30,2025-04-12,12,Yes,1
+APT-0223,Backlog Prioritization Framework,Sprint 09 - 2025,Vikram Singh,High,3,Done,2025-05-03,2025-05-08,2025-05-09,Data Analytics,Low,14,13,UAT Feedback,2025-04-27,2025-05-10,5,Yes,1
+APT-0224,User Access Governance,Sprint 06 - 2025,Rohan Gupta,Medium,8,Done,2025-03-18,2025-03-26,2025-03-26,Engineering,High,43,48,None,2025-03-16,2025-03-29,7,No,1
+APT-0225,Mobile Experience Improvements,Sprint 11 - 2025,Dev Patel,Medium,3,Done,2025-05-26,2025-06-02,2025-06-02,Engineering,Medium,12,15,None,2025-05-25,2025-06-07,6,No,1
+APT-0226,Customer Onboarding Automation,Sprint 01 - 2025,Sara Thomas,Low,3,To Do,2025-01-05,2025-01-17,,Product,Low,10,0,Resource Constraint,2025-01-05,2025-01-18,0,Yes,0
+APT-0227,Mobile Experience Improvements,Sprint 05 - 2025,Arjun Menon,High,2,Done,2025-03-08,2025-03-18,2025-03-19,Engineering,Low,9,10,UAT Feedback,2025-03-02,2025-03-15,10,Yes,1
+APT-0228,Stakeholder Notification Service,Sprint 11 - 2025,Arjun Menon,High,3,Done,2025-05-28,2025-06-03,2025-06-02,Data Analytics,High,21,28,None,2025-05-25,2025-06-07,4,No,1
+APT-0229,Data Quality Remediation,Sprint 03 - 2025,Isha Sharma,Low,2,Done,2025-02-07,2025-02-17,2025-02-17,Customer Success,Low,11,11,None,2025-02-02,2025-02-15,9,No,1
+APT-0230,User Access Governance,Sprint 09 - 2025,Sara Thomas,High,5,Done,2025-04-28,2025-05-10,2025-05-10,QA,Low,22,27,None,2025-04-27,2025-05-10,11,No,1
+APT-0231,Mobile Experience Improvements,Sprint 03 - 2025,Isha Sharma,Critical,8,Done,2025-02-02,2025-02-12,2025-02-12,Product,Medium,64,84,None,2025-02-02,2025-02-15,9,No,1
+APT-0232,Sprint Reporting Hub,Sprint 08 - 2025,Arjun Menon,Medium,1,Done,2025-04-14,2025-04-20,2025-04-20,Operations,High,5,5,None,2025-04-13,2025-04-26,5,No,1
+APT-0233,Billing Workflow Optimization,Sprint 06 - 2025,Aarav Mehta,High,3,Done,2025-03-19,2025-03-22,2025-03-24,QA,Medium,13,16,Requirement Change,2025-03-16,2025-03-29,4,Yes,1
+APT-0234,User Access Governance,Sprint 09 - 2025,Kabir Khan,High,1,To Do,2025-04-30,2025-05-07,,Engineering,High,7,0,Requirement Change,2025-04-27,2025-05-10,0,Yes,0
+APT-0235,Sprint Reporting Hub,Sprint 10 - 2025,Vikram Singh,Medium,8,Done,2025-05-15,2025-05-27,2025-05-28,Data Analytics,Low,41,35,Environment Issue,2025-05-11,2025-05-24,12,Yes,1
+APT-0236,Mobile Experience Improvements,Sprint 06 - 2025,Neha Verma,Medium,3,Done,2025-03-23,2025-03-31,2025-03-29,Data Analytics,Medium,14,16,None,2025-03-16,2025-03-29,5,No,1
+APT-0237,Stakeholder Notification Service,Sprint 10 - 2025,Meera Nair,Low,2,Done,2025-05-16,2025-05-26,2025-05-27,Product,Medium,9,8,Resource Constraint,2025-05-11,2025-05-24,10,Yes,1
+APT-0238,Backlog Prioritization Framework,Sprint 01 - 2025,Ananya Rao,Medium,3,Done,2025-01-13,2025-01-20,2025-01-21,QA,Low,14,17,Dependency Blocker,2025-01-05,2025-01-18,7,Yes,1
+APT-0239,User Access Governance,Sprint 01 - 2025,Arjun Menon,Medium,13,Done,2025-01-10,2025-01-17,2025-01-17,Customer Success,Low,74,71,None,2025-01-05,2025-01-18,6,No,1
+APT-0240,API Reliability Upgrade,Sprint 10 - 2025,Dev Patel,Medium,5,Testing,2025-05-18,2025-05-29,,Engineering,Medium,22,21,Dependency Blocker,2025-05-11,2025-05-24,0,Yes,0
+APT-0241,User Access Governance,Sprint 04 - 2025,Meera Nair,High,3,Testing,2025-02-20,2025-03-03,,Engineering,High,20,25,Resource Constraint,2025-02-16,2025-03-01,0,Yes,0
+APT-0242,Mobile Experience Improvements,Sprint 06 - 2025,Sara Thomas,Medium,1,Done,2025-03-17,2025-03-26,2025-03-28,QA,Low,4,4,Requirement Change,2025-03-16,2025-03-29,10,Yes,1
+APT-0243,Billing Workflow Optimization,Sprint 07 - 2025,Arjun Menon,Medium,1,Done,2025-04-07,2025-04-13,2025-04-13,Customer Success,Low,6,6,None,2025-03-30,2025-04-12,5,No,1
+APT-0244,Backlog Prioritization Framework,Sprint 10 - 2025,Ananya Rao,High,3,Done,2025-05-11,2025-05-21,2025-05-21,Engineering,Low,15,17,None,2025-05-11,2025-05-24,9,No,1
+APT-0245,User Access Governance,Sprint 02 - 2025,Isha Sharma,Medium,8,Done,2025-01-27,2025-02-01,2025-02-03,Engineering,Medium,39,44,UAT Feedback,2025-01-19,2025-02-01,6,Yes,1
+APT-0246,Stakeholder Notification Service,Sprint 04 - 2025,Vikram Singh,Medium,8,Testing,2025-02-19,2025-02-22,,Customer Success,Low,28,22,Dependency Blocker,2025-02-16,2025-03-01,0,Yes,0
+APT-0247,Data Quality Remediation,Sprint 01 - 2025,Dev Patel,Medium,8,Done,2025-01-12,2025-01-21,2025-01-22,Customer Success,Low,45,42,Environment Issue,2025-01-05,2025-01-18,9,Yes,1
+APT-0248,API Reliability Upgrade,Sprint 01 - 2025,Dev Patel,High,8,Done,2025-01-11,2025-01-19,2025-01-21,Product,Medium,43,44,Resource Constraint,2025-01-05,2025-01-18,9,Yes,1
+APT-0249,Billing Workflow Optimization,Sprint 02 - 2025,Rohan Gupta,High,8,Done,2025-01-22,2025-01-30,2025-01-31,Engineering,Low,43,53,Scope Clarification,2025-01-19,2025-02-01,8,Yes,1
+APT-0250,Customer Onboarding Automation,Sprint 11 - 2025,Isha Sharma,High,3,In Progress,2025-05-28,2025-06-03,,Product,High,19,17,Environment Issue,2025-05-25,2025-06-07,0,Yes,0
+APT-0251,Customer Onboarding Automation,Sprint 12 - 2025,Dev Patel,Medium,1,Testing,2025-06-11,2025-06-15,,Data Analytics,High,7,7,UAT Feedback,2025-06-08,2025-06-21,0,Yes,0
+APT-0252,Customer Onboarding Automation,Sprint 09 - 2025,Meera Nair,Medium,8,Done,2025-04-29,2025-05-09,2025-05-09,Customer Success,Low,31,30,None,2025-04-27,2025-05-10,9,No,1
+APT-0253,Mobile Experience Improvements,Sprint 06 - 2025,Isha Sharma,Low,1,Done,2025-03-24,2025-03-31,2025-03-31,Operations,Low,5,6,None,2025-03-16,2025-03-29,6,No,1
+APT-0254,Stakeholder Notification Service,Sprint 02 - 2025,Meera Nair,Critical,8,Done,2025-01-25,2025-02-04,2025-02-03,Customer Success,Low,38,36,None,2025-01-19,2025-02-01,8,No,1
+APT-0255,Customer Onboarding Automation,Sprint 02 - 2025,Ananya Rao,High,5,To Do,2025-01-21,2025-01-27,,Operations,Low,28,0,UAT Feedback,2025-01-19,2025-02-01,0,Yes,0
+APT-0256,Sprint Reporting Hub,Sprint 06 - 2025,Isha Sharma,Medium,3,In Progress,2025-03-16,2025-03-28,,Operations,Low,14,10,Environment Issue,2025-03-16,2025-03-29,0,Yes,0
+APT-0257,Mobile Experience Improvements,Sprint 10 - 2025,Arjun Menon,High,5,Done,2025-05-14,2025-05-25,2025-05-25,Customer Success,Low,26,27,None,2025-05-11,2025-05-24,10,No,1
+APT-0258,Mobile Experience Improvements,Sprint 12 - 2025,Zoya Fernandes,Medium,1,In Progress,2025-06-13,2025-06-23,,Data Analytics,High,6,3,UAT Feedback,2025-06-08,2025-06-21,0,Yes,0
+APT-0259,Stakeholder Notification Service,Sprint 10 - 2025,Zoya Fernandes,Low,2,Done,2025-05-18,2025-05-28,2025-05-28,Operations,High,9,12,None,2025-05-11,2025-05-24,9,No,1
+APT-0260,Stakeholder Notification Service,Sprint 08 - 2025,Arjun Menon,High,5,In Progress,2025-04-16,2025-04-27,,Customer Success,High,25,15,Dependency Blocker,2025-04-13,2025-04-26,0,Yes,0
+APT-0261,Operations SLA Dashboard,Sprint 07 - 2025,Isha Sharma,Medium,3,Done,2025-03-31,2025-04-10,2025-04-08,Operations,High,18,26,None,2025-03-30,2025-04-12,7,No,1
+APT-0262,Operations SLA Dashboard,Sprint 06 - 2025,Neha Verma,Low,3,Done,2025-03-19,2025-03-28,2025-03-27,Operations,Medium,17,16,None,2025-03-16,2025-03-29,7,No,1
+APT-0263,Operations SLA Dashboard,Sprint 04 - 2025,Meera Nair,Medium,5,Done,2025-02-17,2025-02-23,2025-02-23,Operations,Low,19,18,None,2025-02-16,2025-03-01,5,No,1
+APT-0264,Billing Workflow Optimization,Sprint 01 - 2025,Meera Nair,High,5,Done,2025-01-10,2025-01-20,2025-01-21,Customer Success,Low,23,26,Environment Issue,2025-01-05,2025-01-18,10,Yes,1
+APT-0265,User Access Governance,Sprint 12 - 2025,Vikram Singh,Medium,3,Done,2025-06-16,2025-06-22,2025-06-24,Customer Success,Low,15,13,Environment Issue,2025-06-08,2025-06-21,7,Yes,1
+APT-0266,API Reliability Upgrade,Sprint 07 - 2025,Arjun Menon,Low,1,Done,2025-04-07,2025-04-17,2025-04-17,Data Analytics,Medium,4,4,None,2025-03-30,2025-04-12,9,No,1
+APT-0267,Sprint Reporting Hub,Sprint 08 - 2025,Neha Verma,Medium,13,Done,2025-04-17,2025-04-27,2025-04-27,Operations,High,94,124,None,2025-04-13,2025-04-26,9,No,1
+APT-0268,Data Quality Remediation,Sprint 06 - 2025,Aarav Mehta,Medium,8,Done,2025-03-18,2025-03-27,2025-03-27,Operations,Low,45,44,None,2025-03-16,2025-03-29,8,No,1
+APT-0269,Sprint Reporting Hub,Sprint 03 - 2025,Vikram Singh,Medium,5,In Progress,2025-02-04,2025-02-14,,Data Analytics,Low,17,10,Scope Clarification,2025-02-02,2025-02-15,0,Yes,0
+APT-0270,Billing Workflow Optimization,Sprint 09 - 2025,Arjun Menon,High,3,Done,2025-04-27,2025-05-09,2025-05-11,Operations,Low,13,12,Dependency Blocker,2025-04-27,2025-05-10,13,Yes,1
+APT-0271,User Access Governance,Sprint 12 - 2025,Meera Nair,Medium,1,Done,2025-06-15,2025-06-25,2025-06-25,Engineering,Medium,5,6,None,2025-06-08,2025-06-21,9,No,1
+APT-0272,Mobile Experience Improvements,Sprint 11 - 2025,Neha Verma,Medium,5,Done,2025-05-30,2025-06-06,2025-06-08,Operations,Low,24,27,Dependency Blocker,2025-05-25,2025-06-07,8,Yes,1
+APT-0273,Operations SLA Dashboard,Sprint 07 - 2025,Aarav Mehta,Medium,5,Done,2025-03-30,2025-04-10,2025-04-12,QA,High,24,34,Requirement Change,2025-03-30,2025-04-12,12,Yes,1
+APT-0274,Operations SLA Dashboard,Sprint 10 - 2025,Aarav Mehta,Medium,5,Done,2025-05-14,2025-05-25,2025-05-26,Data Analytics,Low,19,22,Scope Clarification,2025-05-11,2025-05-24,11,Yes,1
+APT-0275,Backlog Prioritization Framework,Sprint 03 - 2025,Meera Nair,High,3,Done,2025-02-08,2025-02-11,2025-02-12,QA,Low,16,17,UAT Feedback,2025-02-02,2025-02-15,3,Yes,1
+APT-0276,API Reliability Upgrade,Sprint 10 - 2025,Neha Verma,High,5,To Do,2025-05-18,2025-05-29,,Engineering,Medium,30,0,Environment Issue,2025-05-11,2025-05-24,0,Yes,0
+APT-0277,Stakeholder Notification Service,Sprint 09 - 2025,Kabir Khan,Medium,2,Done,2025-05-05,2025-05-13,2025-05-12,Data Analytics,High,12,16,None,2025-04-27,2025-05-10,6,No,1
+APT-0278,API Reliability Upgrade,Sprint 06 - 2025,Ananya Rao,Medium,1,In Progress,2025-03-20,2025-03-27,,Engineering,High,7,4,Environment Issue,2025-03-16,2025-03-29,0,Yes,0
+APT-0279,User Access Governance,Sprint 04 - 2025,Isha Sharma,Medium,13,Done,2025-02-17,2025-02-26,2025-02-28,QA,Low,64,68,Resource Constraint,2025-02-16,2025-03-01,10,Yes,1
+APT-0280,Sprint Reporting Hub,Sprint 09 - 2025,Kabir Khan,Medium,8,Testing,2025-04-27,2025-05-01,,Product,Medium,39,44,Scope Clarification,2025-04-27,2025-05-10,0,Yes,0
+APT-0281,Customer Onboarding Automation,Sprint 11 - 2025,Zoya Fernandes,Medium,5,Done,2025-06-02,2025-06-12,2025-06-17,Engineering,High,38,48,Resource Constraint,2025-05-25,2025-06-07,14,Yes,1
+APT-0282,Data Quality Remediation,Sprint 01 - 2025,Vikram Singh,Low,2,In Progress,2025-01-13,2025-01-19,,QA,Medium,11,4,Dependency Blocker,2025-01-05,2025-01-18,0,Yes,0
+APT-0283,User Access Governance,Sprint 12 - 2025,Vikram Singh,Medium,3,Testing,2025-06-14,2025-06-25,,Engineering,Low,14,13,Requirement Change,2025-06-08,2025-06-21,0,Yes,0
+APT-0284,Backlog Prioritization Framework,Sprint 02 - 2025,Vikram Singh,Low,3,Done,2025-01-26,2025-02-03,2025-02-03,Product,Low,12,11,None,2025-01-19,2025-02-01,7,No,1
+APT-0285,Operations SLA Dashboard,Sprint 05 - 2025,Kabir Khan,High,2,Done,2025-03-02,2025-03-05,2025-03-07,Engineering,Low,12,14,Environment Issue,2025-03-02,2025-03-15,4,Yes,1
+APT-0286,Sprint Reporting Hub,Sprint 04 - 2025,Rohan Gupta,Medium,3,Done,2025-02-18,2025-02-21,2025-02-21,QA,Low,13,16,None,2025-02-16,2025-03-01,2,No,1
+APT-0287,API Reliability Upgrade,Sprint 02 - 2025,Kabir Khan,Medium,8,Done,2025-01-19,2025-01-28,2025-01-27,QA,Low,29,36,None,2025-01-19,2025-02-01,7,No,1
+APT-0288,Data Quality Remediation,Sprint 10 - 2025,Kabir Khan,Medium,3,Done,2025-05-11,2025-05-17,2025-05-19,QA,Low,17,16,Scope Clarification,2025-05-11,2025-05-24,7,Yes,1
+APT-0289,Backlog Prioritization Framework,Sprint 07 - 2025,Vikram Singh,Medium,3,Done,2025-04-07,2025-04-14,2025-04-16,Product,Medium,11,10,Resource Constraint,2025-03-30,2025-04-12,8,Yes,1
+APT-0290,Backlog Prioritization Framework,Sprint 05 - 2025,Kabir Khan,Low,8,Done,2025-03-09,2025-03-12,2025-03-14,Operations,High,34,50,Resource Constraint,2025-03-02,2025-03-15,4,Yes,1
+APT-0291,Backlog Prioritization Framework,Sprint 02 - 2025,Ananya Rao,Medium,8,Done,2025-01-25,2025-02-03,2025-02-03,Operations,Medium,35,41,None,2025-01-19,2025-02-01,8,No,1
+APT-0292,Backlog Prioritization Framework,Sprint 11 - 2025,Zoya Fernandes,Low,13,Done,2025-05-25,2025-06-05,2025-06-06,Operations,Low,57,70,UAT Feedback,2025-05-25,2025-06-07,11,Yes,1
+APT-0293,API Reliability Upgrade,Sprint 11 - 2025,Kabir Khan,Medium,8,Done,2025-05-29,2025-06-01,2025-05-31,Product,Medium,41,37,None,2025-05-25,2025-06-07,1,No,1
+APT-0294,Mobile Experience Improvements,Sprint 05 - 2025,Zoya Fernandes,Medium,13,Done,2025-03-02,2025-03-06,2025-03-06,Data Analytics,High,56,64,None,2025-03-02,2025-03-15,3,No,1
+APT-0295,Operations SLA Dashboard,Sprint 09 - 2025,Isha Sharma,Critical,8,Done,2025-04-27,2025-05-06,2025-05-06,QA,Low,38,36,None,2025-04-27,2025-05-10,8,No,1
+APT-0296,Stakeholder Notification Service,Sprint 09 - 2025,Arjun Menon,High,5,Done,2025-04-28,2025-05-10,2025-05-13,QA,High,35,39,UAT Feedback,2025-04-27,2025-05-10,14,Yes,1
+APT-0297,Sprint Reporting Hub,Sprint 09 - 2025,Vikram Singh,High,2,Done,2025-05-01,2025-05-04,2025-05-06,Operations,Low,13,15,Environment Issue,2025-04-27,2025-05-10,4,Yes,1
+APT-0298,Operations SLA Dashboard,Sprint 01 - 2025,Dev Patel,Medium,8,Done,2025-01-11,2025-01-14,2025-01-13,Engineering,Low,28,28,None,2025-01-05,2025-01-18,1,No,1
+APT-0299,Customer Onboarding Automation,Sprint 02 - 2025,Meera Nair,Low,2,Done,2025-01-26,2025-02-05,2025-02-07,Customer Success,Medium,12,12,Environment Issue,2025-01-19,2025-02-01,11,Yes,1
+APT-0300,Billing Workflow Optimization,Sprint 06 - 2025,Meera Nair,Medium,3,Done,2025-03-16,2025-03-19,2025-03-17,Customer Success,Low,14,11,None,2025-03-16,2025-03-29,1,No,1
+APT-0301,Data Quality Remediation,Sprint 04 - 2025,Sara Thomas,Medium,1,Done,2025-02-23,2025-03-03,2025-03-01,Data Analytics,High,5,7,None,2025-02-16,2025-03-01,5,No,1
+APT-0302,Sprint Reporting Hub,Sprint 08 - 2025,Meera Nair,Medium,1,Done,2025-04-15,2025-04-24,2025-04-26,Product,High,6,8,Dependency Blocker,2025-04-13,2025-04-26,10,Yes,1
+APT-0303,Backlog Prioritization Framework,Sprint 11 - 2025,Sara Thomas,Medium,2,Done,2025-06-02,2025-06-09,2025-06-10,Product,Low,12,10,Requirement Change,2025-05-25,2025-06-07,7,Yes,1
+APT-0304,API Reliability Upgrade,Sprint 06 - 2025,Zoya Fernandes,High,3,Done,2025-03-23,2025-04-03,2025-04-03,Product,Low,18,16,None,2025-03-16,2025-03-29,10,No,1
+APT-0305,Stakeholder Notification Service,Sprint 08 - 2025,Kabir Khan,High,3,In Progress,2025-04-20,2025-04-23,,Engineering,High,25,18,UAT Feedback,2025-04-13,2025-04-26,0,Yes,0
+APT-0306,User Access Governance,Sprint 05 - 2025,Isha Sharma,High,3,Done,2025-03-09,2025-03-12,2025-03-12,Customer Success,Low,15,16,None,2025-03-02,2025-03-15,2,No,1
+APT-0307,Customer Onboarding Automation,Sprint 05 - 2025,Arjun Menon,Low,3,In Progress,2025-03-03,2025-03-13,,Customer Success,Low,9,6,Scope Clarification,2025-03-02,2025-03-15,0,Yes,0
+APT-0308,Customer Onboarding Automation,Sprint 12 - 2025,Neha Verma,Medium,2,Testing,2025-06-10,2025-06-22,,Engineering,Low,11,10,Resource Constraint,2025-06-08,2025-06-21,0,Yes,0
+APT-0309,Customer Onboarding Automation,Sprint 05 - 2025,Sara Thomas,Low,3,Done,2025-03-09,2025-03-15,2025-03-16,Product,Low,13,13,Scope Clarification,2025-03-02,2025-03-15,6,Yes,1
+APT-0310,Operations SLA Dashboard,Sprint 10 - 2025,Sara Thomas,High,5,Done,2025-05-11,2025-05-20,2025-05-18,Engineering,Low,20,23,None,2025-05-11,2025-05-24,6,No,1
+APT-0311,Billing Workflow Optimization,Sprint 06 - 2025,Kabir Khan,High,2,In Progress,2025-03-23,2025-03-26,,Operations,Medium,10,8,Scope Clarification,2025-03-16,2025-03-29,0,Yes,0
+APT-0312,Sprint Reporting Hub,Sprint 09 - 2025,Vikram Singh,Medium,3,In Progress,2025-04-28,2025-05-07,,Customer Success,Medium,18,13,UAT Feedback,2025-04-27,2025-05-10,0,Yes,0
+APT-0313,Customer Onboarding Automation,Sprint 05 - 2025,Meera Nair,Low,3,Done,2025-03-03,2025-03-14,2025-03-16,Data Analytics,Medium,16,21,Scope Clarification,2025-03-02,2025-03-15,12,Yes,1
+APT-0314,User Access Governance,Sprint 09 - 2025,Kabir Khan,Medium,3,Done,2025-05-03,2025-05-06,2025-05-07,Customer Success,Low,14,17,Scope Clarification,2025-04-27,2025-05-10,3,Yes,1
+APT-0315,User Access Governance,Sprint 09 - 2025,Isha Sharma,Medium,5,Done,2025-04-28,2025-05-09,2025-05-09,Customer Success,Low,27,32,None,2025-04-27,2025-05-10,10,No,1
+APT-0316,Sprint Reporting Hub,Sprint 08 - 2025,Arjun Menon,High,2,Done,2025-04-19,2025-05-01,2025-05-02,Product,Low,10,11,Environment Issue,2025-04-13,2025-04-26,12,Yes,1
+APT-0317,API Reliability Upgrade,Sprint 05 - 2025,Rohan Gupta,Medium,3,Done,2025-03-09,2025-03-17,2025-03-16,Operations,Low,11,14,None,2025-03-02,2025-03-15,6,No,1
+APT-0318,Sprint Reporting Hub,Sprint 06 - 2025,Isha Sharma,High,5,Testing,2025-03-20,2025-03-30,,Customer Success,Medium,22,21,Requirement Change,2025-03-16,2025-03-29,0,Yes,0
+APT-0319,Stakeholder Notification Service,Sprint 04 - 2025,Rohan Gupta,High,8,Done,2025-02-20,2025-02-25,2025-02-25,QA,Low,43,52,None,2025-02-16,2025-03-01,4,No,1
+APT-0320,Backlog Prioritization Framework,Sprint 01 - 2025,Sara Thomas,Medium,5,Done,2025-01-10,2025-01-16,2025-01-14,Product,Low,21,17,None,2025-01-05,2025-01-18,3,No,1
+APT-0321,User Access Governance,Sprint 03 - 2025,Rohan Gupta,High,2,In Progress,2025-02-03,2025-02-06,,Engineering,Medium,11,8,UAT Feedback,2025-02-02,2025-02-15,0,Yes,0
+APT-0322,Data Quality Remediation,Sprint 06 - 2025,Zoya Fernandes,Medium,8,Done,2025-03-20,2025-03-26,2025-03-25,Engineering,High,57,63,None,2025-03-16,2025-03-29,4,No,1
+APT-0323,Stakeholder Notification Service,Sprint 09 - 2025,Zoya Fernandes,High,5,Testing,2025-05-02,2025-05-09,,Product,High,34,39,UAT Feedback,2025-04-27,2025-05-10,0,Yes,0
+APT-0324,Billing Workflow Optimization,Sprint 12 - 2025,Arjun Menon,High,3,To Do,2025-06-16,2025-06-20,,Product,High,19,0,UAT Feedback,2025-06-08,2025-06-21,0,Yes,0
+APT-0325,API Reliability Upgrade,Sprint 02 - 2025,Neha Verma,High,3,Done,2025-01-24,2025-02-01,2025-02-03,Operations,Medium,15,16,Environment Issue,2025-01-19,2025-02-01,9,Yes,1
+APT-0326,Customer Onboarding Automation,Sprint 05 - 2025,Dev Patel,High,2,Done,2025-03-05,2025-03-11,2025-03-12,QA,Low,11,10,UAT Feedback,2025-03-02,2025-03-15,6,Yes,1
+APT-0327,Data Quality Remediation,Sprint 05 - 2025,Aarav Mehta,High,3,Done,2025-03-03,2025-03-09,2025-03-08,Customer Success,Medium,15,20,None,2025-03-02,2025-03-15,4,No,1
+APT-0328,User Access Governance,Sprint 03 - 2025,Isha Sharma,Medium,13,Done,2025-02-02,2025-02-06,2025-02-06,Operations,Medium,81,111,None,2025-02-02,2025-02-15,3,No,1
+APT-0329,User Access Governance,Sprint 05 - 2025,Aarav Mehta,Low,5,Done,2025-03-09,2025-03-17,2025-03-18,QA,Medium,19,20,Environment Issue,2025-03-02,2025-03-15,8,Yes,1
+APT-0330,User Access Governance,Sprint 04 - 2025,Isha Sharma,Low,3,Done,2025-02-24,2025-03-06,2025-03-07,Customer Success,Medium,11,14,Scope Clarification,2025-02-16,2025-03-01,10,Yes,1
+APT-0331,API Reliability Upgrade,Sprint 01 - 2025,Vikram Singh,Medium,8,Done,2025-01-05,2025-01-17,2025-01-19,Operations,Low,45,38,Dependency Blocker,2025-01-05,2025-01-18,13,Yes,1
+APT-0332,Customer Onboarding Automation,Sprint 09 - 2025,Zoya Fernandes,Medium,2,Done,2025-05-02,2025-05-08,2025-05-10,Product,High,14,16,Scope Clarification,2025-04-27,2025-05-10,7,Yes,1
+APT-0333,Customer Onboarding Automation,Sprint 02 - 2025,Zoya Fernandes,Low,8,Done,2025-01-21,2025-01-26,2025-01-27,Customer Success,Low,35,34,Resource Constraint,2025-01-19,2025-02-01,5,Yes,1
+APT-0334,Customer Onboarding Automation,Sprint 08 - 2025,Neha Verma,High,3,Done,2025-04-20,2025-04-28,2025-04-29,Data Analytics,Medium,14,13,Environment Issue,2025-04-13,2025-04-26,8,Yes,1
+APT-0335,Sprint Reporting Hub,Sprint 02 - 2025,Ananya Rao,Medium,3,Done,2025-01-23,2025-01-26,2025-01-24,Operations,High,21,33,None,2025-01-19,2025-02-01,1,No,1
+APT-0336,Billing Workflow Optimization,Sprint 10 - 2025,Aarav Mehta,High,5,Done,2025-05-18,2025-05-29,2025-05-31,QA,Low,26,30,Resource Constraint,2025-05-11,2025-05-24,12,Yes,1
+APT-0337,Sprint Reporting Hub,Sprint 11 - 2025,Arjun Menon,Low,8,Done,2025-05-25,2025-06-01,2025-06-01,Product,Low,40,36,None,2025-05-25,2025-06-07,6,No,1
+APT-0338,Operations SLA Dashboard,Sprint 12 - 2025,Dev Patel,Medium,2,Done,2025-06-11,2025-06-18,2025-06-17,Data Analytics,Low,7,8,None,2025-06-08,2025-06-21,5,No,1
+APT-0339,Sprint Reporting Hub,Sprint 01 - 2025,Aarav Mehta,Medium,5,Done,2025-01-13,2025-01-23,2025-01-24,Customer Success,High,28,37,Scope Clarification,2025-01-05,2025-01-18,10,Yes,1
+APT-0340,User Access Governance,Sprint 11 - 2025,Vikram Singh,Medium,3,Done,2025-05-26,2025-05-29,2025-05-27,Product,High,20,20,None,2025-05-25,2025-06-07,1,No,1
+APT-0341,Stakeholder Notification Service,Sprint 05 - 2025,Meera Nair,Medium,13,Done,2025-03-06,2025-03-17,2025-03-19,Engineering,Low,74,74,Resource Constraint,2025-03-02,2025-03-15,12,Yes,1
+APT-0342,API Reliability Upgrade,Sprint 03 - 2025,Vikram Singh,Medium,5,Done,2025-02-08,2025-02-19,2025-02-18,QA,Medium,32,40,None,2025-02-02,2025-02-15,9,No,1
+APT-0343,API Reliability Upgrade,Sprint 08 - 2025,Sara Thomas,High,2,Done,2025-04-17,2025-04-24,2025-04-23,Operations,Medium,14,18,None,2025-04-13,2025-04-26,5,No,1
+APT-0344,Customer Onboarding Automation,Sprint 09 - 2025,Aarav Mehta,Medium,5,Done,2025-05-05,2025-05-15,2025-05-14,QA,Low,17,19,None,2025-04-27,2025-05-10,8,No,1
+APT-0345,Sprint Reporting Hub,Sprint 05 - 2025,Meera Nair,Low,8,Done,2025-03-10,2025-03-13,2025-03-12,QA,Low,40,37,None,2025-03-02,2025-03-15,1,No,1
+APT-0346,Billing Workflow Optimization,Sprint 01 - 2025,Aarav Mehta,Medium,2,Done,2025-01-08,2025-01-15,2025-01-15,QA,Medium,8,8,None,2025-01-05,2025-01-18,6,No,1
+APT-0347,Customer Onboarding Automation,Sprint 07 - 2025,Isha Sharma,Critical,3,Done,2025-04-04,2025-04-13,2025-04-15,Operations,High,21,29,Resource Constraint,2025-03-30,2025-04-12,10,Yes,1
+APT-0348,Billing Workflow Optimization,Sprint 09 - 2025,Sara Thomas,High,2,Testing,2025-05-01,2025-05-12,,QA,Medium,14,14,Environment Issue,2025-04-27,2025-05-10,0,Yes,0
+APT-0349,Stakeholder Notification Service,Sprint 04 - 2025,Aarav Mehta,Medium,1,Testing,2025-02-20,2025-03-01,,Engineering,Medium,5,5,Scope Clarification,2025-02-16,2025-03-01,0,Yes,0
+APT-0350,Backlog Prioritization Framework,Sprint 12 - 2025,Sara Thomas,Critical,3,Done,2025-06-08,2025-06-14,2025-06-13,QA,Medium,17,22,None,2025-06-08,2025-06-21,4,No,1
+APT-0351,API Reliability Upgrade,Sprint 03 - 2025,Rohan Gupta,Medium,3,Testing,2025-02-02,2025-02-08,,Product,Low,11,9,UAT Feedback,2025-02-02,2025-02-15,0,Yes,0
+APT-0352,Sprint Reporting Hub,Sprint 09 - 2025,Dev Patel,High,8,Done,2025-04-30,2025-05-03,2025-05-04,Product,Medium,45,51,Environment Issue,2025-04-27,2025-05-10,3,Yes,1
+APT-0353,API Reliability Upgrade,Sprint 07 - 2025,Dev Patel,Low,3,Done,2025-03-31,2025-04-06,2025-04-06,Product,Low,16,15,None,2025-03-30,2025-04-12,5,No,1
+APT-0354,Stakeholder Notification Service,Sprint 03 - 2025,Ananya Rao,Medium,2,To Do,2025-02-07,2025-02-14,,Engineering,Low,11,0,Scope Clarification,2025-02-02,2025-02-15,0,Yes,0
+APT-0355,Mobile Experience Improvements,Sprint 03 - 2025,Vikram Singh,Medium,8,Done,2025-02-08,2025-02-11,2025-02-11,Product,Low,45,47,None,2025-02-02,2025-02-15,2,No,1
+APT-0356,Mobile Experience Improvements,Sprint 12 - 2025,Arjun Menon,Medium,8,Done,2025-06-14,2025-06-26,2025-06-26,Engineering,Low,34,42,None,2025-06-08,2025-06-21,11,No,1
+APT-0357,Mobile Experience Improvements,Sprint 08 - 2025,Isha Sharma,High,3,Done,2025-04-16,2025-04-19,2025-04-19,Customer Success,Medium,20,26,None,2025-04-13,2025-04-26,2,No,1
+APT-0358,User Access Governance,Sprint 08 - 2025,Sara Thomas,Medium,13,Done,2025-04-16,2025-04-24,2025-04-24,QA,Low,64,54,None,2025-04-13,2025-04-26,7,No,1
+APT-0359,Billing Workflow Optimization,Sprint 08 - 2025,Zoya Fernandes,Medium,5,Done,2025-04-20,2025-04-29,2025-04-29,QA,Low,22,25,None,2025-04-13,2025-04-26,8,No,1
+APT-0360,Backlog Prioritization Framework,Sprint 01 - 2025,Vikram Singh,Critical,3,Done,2025-01-11,2025-01-14,2025-01-15,Operations,Medium,16,21,Environment Issue,2025-01-05,2025-01-18,3,Yes,1
+APT-0361,User Access Governance,Sprint 10 - 2025,Arjun Menon,Critical,13,Done,2025-05-17,2025-05-29,2025-05-31,Data Analytics,High,109,143,UAT Feedback,2025-05-11,2025-05-24,13,Yes,1
+APT-0362,Data Quality Remediation,Sprint 07 - 2025,Ananya Rao,High,8,In Progress,2025-04-02,2025-04-12,,Customer Success,Medium,50,24,Environment Issue,2025-03-30,2025-04-12,0,Yes,0
+APT-0363,Backlog Prioritization Framework,Sprint 09 - 2025,Meera Nair,High,3,Done,2025-04-27,2025-05-04,2025-05-04,Engineering,Medium,21,24,None,2025-04-27,2025-05-10,6,No,1
+APT-0364,Billing Workflow Optimization,Sprint 02 - 2025,Aarav Mehta,Critical,1,In Progress,2025-01-19,2025-01-24,,Customer Success,Medium,6,4,UAT Feedback,2025-01-19,2025-02-01,0,Yes,0
+APT-0365,Stakeholder Notification Service,Sprint 09 - 2025,Neha Verma,Low,3,In Progress,2025-05-02,2025-05-09,,Operations,Medium,19,14,Environment Issue,2025-04-27,2025-05-10,0,Yes,0
+APT-0366,Stakeholder Notification Service,Sprint 07 - 2025,Arjun Menon,Medium,5,Done,2025-04-07,2025-04-17,2025-04-18,Customer Success,Low,21,24,UAT Feedback,2025-03-30,2025-04-12,10,Yes,1
+APT-0367,Billing Workflow Optimization,Sprint 07 - 2025,Rohan Gupta,Medium,8,Testing,2025-04-06,2025-04-16,,Engineering,Low,35,26,Environment Issue,2025-03-30,2025-04-12,0,Yes,0
+APT-0368,Mobile Experience Improvements,Sprint 12 - 2025,Kabir Khan,Medium,2,In Progress,2025-06-11,2025-06-14,,Engineering,Low,11,4,Requirement Change,2025-06-08,2025-06-21,0,Yes,0
+APT-0369,Data Quality Remediation,Sprint 08 - 2025,Vikram Singh,Medium,5,Done,2025-04-16,2025-04-20,2025-04-18,Product,Low,20,17,None,2025-04-13,2025-04-26,1,No,1
+APT-0370,Sprint Reporting Hub,Sprint 11 - 2025,Sara Thomas,Medium,8,Done,2025-06-01,2025-06-04,2025-06-06,QA,Medium,35,32,Resource Constraint,2025-05-25,2025-06-07,4,Yes,1
+APT-0371,Billing Workflow Optimization,Sprint 08 - 2025,Vikram Singh,High,2,Testing,2025-04-20,2025-04-26,,QA,Medium,10,9,Scope Clarification,2025-04-13,2025-04-26,0,Yes,0
+APT-0372,Billing Workflow Optimization,Sprint 12 - 2025,Sara Thomas,Medium,3,Done,2025-06-15,2025-06-26,2025-06-25,Engineering,Low,15,19,None,2025-06-08,2025-06-21,9,No,1
+APT-0373,Backlog Prioritization Framework,Sprint 02 - 2025,Ananya Rao,Medium,5,In Progress,2025-01-21,2025-01-24,,Data Analytics,Low,21,9,Requirement Change,2025-01-19,2025-02-01,0,Yes,0
+APT-0374,Customer Onboarding Automation,Sprint 02 - 2025,Zoya Fernandes,Medium,5,Done,2025-01-26,2025-02-06,2025-02-09,Data Analytics,Medium,31,34,Environment Issue,2025-01-19,2025-02-01,13,Yes,1
+APT-0375,Operations SLA Dashboard,Sprint 06 - 2025,Aarav Mehta,Medium,13,Done,2025-03-17,2025-03-24,2025-03-25,Product,Medium,71,71,UAT Feedback,2025-03-16,2025-03-29,7,Yes,1
+APT-0376,API Reliability Upgrade,Sprint 05 - 2025,Dev Patel,High,3,Testing,2025-03-06,2025-03-15,,Data Analytics,Low,12,12,Resource Constraint,2025-03-02,2025-03-15,0,Yes,0
+APT-0377,Operations SLA Dashboard,Sprint 05 - 2025,Zoya Fernandes,Medium,2,Done,2025-03-05,2025-03-14,2025-03-14,Engineering,Medium,13,17,None,2025-03-02,2025-03-15,8,No,1
+APT-0378,Mobile Experience Improvements,Sprint 03 - 2025,Kabir Khan,Medium,3,Done,2025-02-04,2025-02-08,2025-02-08,Data Analytics,Low,14,14,None,2025-02-02,2025-02-15,3,No,1
+APT-0379,Sprint Reporting Hub,Sprint 12 - 2025,Dev Patel,Medium,3,In Progress,2025-06-14,2025-06-22,,Product,Low,14,5,Resource Constraint,2025-06-08,2025-06-21,0,Yes,0
+APT-0380,API Reliability Upgrade,Sprint 11 - 2025,Dev Patel,Medium,13,Testing,2025-06-01,2025-06-10,,Engineering,Low,54,54,Resource Constraint,2025-05-25,2025-06-07,0,Yes,0
+APT-0381,Customer Onboarding Automation,Sprint 06 - 2025,Meera Nair,High,2,Done,2025-03-24,2025-04-02,2025-04-03,QA,Medium,13,18,UAT Feedback,2025-03-16,2025-03-29,9,Yes,1
+APT-0382,User Access Governance,Sprint 10 - 2025,Meera Nair,High,2,Done,2025-05-17,2025-05-25,2025-05-25,Product,Medium,11,13,None,2025-05-11,2025-05-24,7,No,1
+APT-0383,Billing Workflow Optimization,Sprint 08 - 2025,Sara Thomas,High,3,In Progress,2025-04-20,2025-05-01,,Data Analytics,Low,17,7,Environment Issue,2025-04-13,2025-04-26,0,Yes,0
+APT-0384,Sprint Reporting Hub,Sprint 06 - 2025,Dev Patel,Low,5,Done,2025-03-17,2025-03-26,2025-03-25,Product,Low,26,22,None,2025-03-16,2025-03-29,7,No,1
+APT-0385,Billing Workflow Optimization,Sprint 09 - 2025,Meera Nair,Medium,5,Done,2025-04-30,2025-05-06,2025-05-06,Engineering,High,28,28,None,2025-04-27,2025-05-10,5,No,1
+APT-0386,Data Quality Remediation,Sprint 08 - 2025,Dev Patel,Medium,3,Done,2025-04-17,2025-04-23,2025-04-22,Customer Success,Medium,17,23,None,2025-04-13,2025-04-26,4,No,1
+APT-0387,Sprint Reporting Hub,Sprint 02 - 2025,Ananya Rao,Critical,3,Done,2025-01-22,2025-01-30,2025-01-30,Customer Success,Medium,24,32,None,2025-01-19,2025-02-01,7,No,1
+APT-0388,API Reliability Upgrade,Sprint 08 - 2025,Dev Patel,Medium,5,Testing,2025-04-16,2025-04-21,,Engineering,Low,25,19,UAT Feedback,2025-04-13,2025-04-26,0,Yes,0
+APT-0389,Backlog Prioritization Framework,Sprint 05 - 2025,Sara Thomas,High,3,Done,2025-03-07,2025-03-18,2025-03-18,QA,Low,11,9,None,2025-03-02,2025-03-15,10,No,1
+APT-0390,Backlog Prioritization Framework,Sprint 06 - 2025,Rohan Gupta,Critical,3,Done,2025-03-21,2025-03-27,2025-03-26,Customer Success,High,17,19,None,2025-03-16,2025-03-29,4,No,1
+APT-0391,Mobile Experience Improvements,Sprint 06 - 2025,Vikram Singh,Low,3,Done,2025-03-18,2025-03-22,2025-03-21,Product,High,19,23,None,2025-03-16,2025-03-29,2,No,1
+APT-0392,Billing Workflow Optimization,Sprint 01 - 2025,Zoya Fernandes,High,5,Done,2025-01-05,2025-01-08,2025-01-09,Customer Success,Low,26,30,Requirement Change,2025-01-05,2025-01-18,3,Yes,1
+APT-0393,Stakeholder Notification Service,Sprint 10 - 2025,Dev Patel,Low,2,Done,2025-05-13,2025-05-20,2025-05-19,Product,Low,7,9,None,2025-05-11,2025-05-24,5,No,1
+APT-0394,Backlog Prioritization Framework,Sprint 01 - 2025,Sara Thomas,Medium,3,Done,2025-01-09,2025-01-12,2025-01-12,Engineering,Low,11,12,None,2025-01-05,2025-01-18,2,No,1
+APT-0395,User Access Governance,Sprint 09 - 2025,Meera Nair,Medium,3,Testing,2025-05-03,2025-05-12,,Product,Low,11,8,Environment Issue,2025-04-27,2025-05-10,0,Yes,0
+APT-0396,Sprint Reporting Hub,Sprint 05 - 2025,Meera Nair,High,5,Done,2025-03-09,2025-03-20,2025-03-20,Product,Low,28,29,None,2025-03-02,2025-03-15,10,No,1
+APT-0397,Customer Onboarding Automation,Sprint 08 - 2025,Rohan Gupta,Critical,13,Done,2025-04-14,2025-04-26,2025-04-28,Operations,High,82,88,Requirement Change,2025-04-13,2025-04-26,13,Yes,1
+APT-0398,Mobile Experience Improvements,Sprint 05 - 2025,Isha Sharma,Medium,3,In Progress,2025-03-06,2025-03-17,,QA,Low,12,9,Requirement Change,2025-03-02,2025-03-15,0,Yes,0
+APT-0399,User Access Governance,Sprint 07 - 2025,Ananya Rao,Low,5,Done,2025-03-30,2025-04-02,2025-04-03,Operations,Low,22,19,Environment Issue,2025-03-30,2025-04-12,3,Yes,1
+APT-0400,Backlog Prioritization Framework,Sprint 06 - 2025,Vikram Singh,Medium,3,Done,2025-03-22,2025-03-25,2025-03-26,Engineering,Medium,19,17,UAT Feedback,2025-03-16,2025-03-29,3,Yes,1
+APT-0401,Data Quality Remediation,Sprint 04 - 2025,Kabir Khan,High,8,Testing,2025-02-20,2025-02-26,,QA,High,50,48,Resource Constraint,2025-02-16,2025-03-01,0,Yes,0
+APT-0402,Data Quality Remediation,Sprint 03 - 2025,Neha Verma,Medium,1,To Do,2025-02-02,2025-02-14,,Data Analytics,Low,4,0,Dependency Blocker,2025-02-02,2025-02-15,0,Yes,0
+APT-0403,Operations SLA Dashboard,Sprint 04 - 2025,Rohan Gupta,Low,8,Done,2025-02-21,2025-03-01,2025-03-02,Operations,Low,34,28,Requirement Change,2025-02-16,2025-03-01,8,Yes,1
+APT-0404,Stakeholder Notification Service,Sprint 07 - 2025,Meera Nair,Critical,5,Done,2025-04-06,2025-04-17,2025-04-19,Engineering,Low,27,31,Environment Issue,2025-03-30,2025-04-12,12,Yes,1
+APT-0405,Billing Workflow Optimization,Sprint 11 - 2025,Sara Thomas,Medium,3,Done,2025-05-27,2025-06-04,2025-06-04,Customer Success,Medium,11,10,None,2025-05-25,2025-06-07,7,No,1
+APT-0406,Operations SLA Dashboard,Sprint 05 - 2025,Arjun Menon,High,8,Done,2025-03-02,2025-03-08,2025-03-07,Data Analytics,Low,44,48,None,2025-03-02,2025-03-15,4,No,1
+APT-0407,Customer Onboarding Automation,Sprint 05 - 2025,Sara Thomas,Low,8,Done,2025-03-09,2025-03-12,2025-03-14,Operations,Medium,32,33,UAT Feedback,2025-03-02,2025-03-15,4,Yes,1
+APT-0408,Operations SLA Dashboard,Sprint 07 - 2025,Rohan Gupta,High,2,To Do,2025-04-02,2025-04-12,,Operations,High,12,0,Dependency Blocker,2025-03-30,2025-04-12,0,Yes,0
+APT-0409,API Reliability Upgrade,Sprint 07 - 2025,Sara Thomas,High,2,Done,2025-03-30,2025-04-03,2025-04-03,Customer Success,Low,13,14,None,2025-03-30,2025-04-12,3,No,1
+APT-0410,Sprint Reporting Hub,Sprint 04 - 2025,Aarav Mehta,High,13,Done,2025-02-16,2025-02-20,2025-02-20,Data Analytics,Low,78,66,None,2025-02-16,2025-03-01,3,No,1
+APT-0411,Billing Workflow Optimization,Sprint 12 - 2025,Aarav Mehta,High,2,Done,2025-06-09,2025-06-17,2025-06-17,Operations,Low,10,8,None,2025-06-08,2025-06-21,7,No,1
+APT-0412,Backlog Prioritization Framework,Sprint 11 - 2025,Zoya Fernandes,Medium,1,In Progress,2025-05-28,2025-06-06,,Customer Success,High,5,4,Dependency Blocker,2025-05-25,2025-06-07,0,Yes,0
+APT-0413,Sprint Reporting Hub,Sprint 12 - 2025,Aarav Mehta,Medium,2,Testing,2025-06-13,2025-06-23,,Data Analytics,Medium,10,11,UAT Feedback,2025-06-08,2025-06-21,0,Yes,0
+APT-0414,API Reliability Upgrade,Sprint 04 - 2025,Sara Thomas,Medium,2,In Progress,2025-02-17,2025-02-25,,Data Analytics,Medium,12,5,Scope Clarification,2025-02-16,2025-03-01,0,Yes,0
+APT-0415,Billing Workflow Optimization,Sprint 09 - 2025,Zoya Fernandes,High,3,Done,2025-04-29,2025-05-07,2025-05-08,Data Analytics,Low,11,13,Requirement Change,2025-04-27,2025-05-10,8,Yes,1
+APT-0416,Data Quality Remediation,Sprint 08 - 2025,Ananya Rao,Medium,8,Done,2025-04-17,2025-04-29,2025-04-30,Product,Low,27,32,Dependency Blocker,2025-04-13,2025-04-26,12,Yes,1
+APT-0417,API Reliability Upgrade,Sprint 12 - 2025,Isha Sharma,Medium,5,Done,2025-06-09,2025-06-20,2025-06-22,Engineering,Medium,19,25,Environment Issue,2025-06-08,2025-06-21,12,Yes,1
+APT-0418,Sprint Reporting Hub,Sprint 11 - 2025,Zoya Fernandes,Medium,5,Done,2025-05-28,2025-06-06,2025-06-06,Data Analytics,Low,29,30,None,2025-05-25,2025-06-07,8,No,1
+APT-0419,Stakeholder Notification Service,Sprint 03 - 2025,Kabir Khan,Low,1,Done,2025-02-07,2025-02-16,2025-02-16,QA,Low,5,6,None,2025-02-02,2025-02-15,8,No,1
+APT-0420,Backlog Prioritization Framework,Sprint 01 - 2025,Arjun Menon,High,3,Done,2025-01-08,2025-01-17,2025-01-17,QA,Medium,16,17,None,2025-01-05,2025-01-18,8,No,1
+APT-0421,Backlog Prioritization Framework,Sprint 03 - 2025,Isha Sharma,Medium,2,Done,2025-02-06,2025-02-13,2025-02-13,Customer Success,High,14,20,None,2025-02-02,2025-02-15,6,No,1
+APT-0422,Sprint Reporting Hub,Sprint 08 - 2025,Neha Verma,Medium,5,Done,2025-04-17,2025-04-28,2025-04-28,Customer Success,Low,28,23,None,2025-04-13,2025-04-26,10,No,1
+APT-0423,Mobile Experience Improvements,Sprint 01 - 2025,Dev Patel,Medium,5,Done,2025-01-10,2025-01-22,2025-01-22,QA,Low,23,28,None,2025-01-05,2025-01-18,11,No,1
+APT-0424,Billing Workflow Optimization,Sprint 05 - 2025,Neha Verma,Medium,3,Done,2025-03-02,2025-03-11,2025-03-13,Product,Low,11,10,Environment Issue,2025-03-02,2025-03-15,10,Yes,1
+APT-0425,Stakeholder Notification Service,Sprint 02 - 2025,Kabir Khan,Low,13,Done,2025-01-24,2025-02-02,2025-02-04,Engineering,Medium,59,71,Dependency Blocker,2025-01-19,2025-02-01,10,Yes,1
+APT-0426,Stakeholder Notification Service,Sprint 11 - 2025,Kabir Khan,Medium,5,Done,2025-05-28,2025-06-08,2025-06-09,Data Analytics,High,29,32,Dependency Blocker,2025-05-25,2025-06-07,11,Yes,1
+APT-0427,Mobile Experience Improvements,Sprint 01 - 2025,Vikram Singh,High,8,Done,2025-01-10,2025-01-15,2025-01-17,Product,Medium,33,42,Requirement Change,2025-01-05,2025-01-18,6,Yes,1
+APT-0428,Mobile Experience Improvements,Sprint 03 - 2025,Sara Thomas,Critical,5,To Do,2025-02-05,2025-02-10,,Data Analytics,Low,32,0,UAT Feedback,2025-02-02,2025-02-15,0,Yes,0
+APT-0429,API Reliability Upgrade,Sprint 03 - 2025,Arjun Menon,High,3,Testing,2025-02-07,2025-02-10,,Customer Success,Low,13,10,Dependency Blocker,2025-02-02,2025-02-15,0,Yes,0
+APT-0430,Mobile Experience Improvements,Sprint 06 - 2025,Isha Sharma,Medium,8,Testing,2025-03-23,2025-04-02,,Engineering,Low,46,42,Environment Issue,2025-03-16,2025-03-29,0,Yes,0
+APT-0431,Sprint Reporting Hub,Sprint 10 - 2025,Rohan Gupta,Medium,5,Done,2025-05-17,2025-05-26,2025-05-24,Engineering,Medium,32,40,None,2025-05-11,2025-05-24,6,No,1
+APT-0432,Sprint Reporting Hub,Sprint 10 - 2025,Kabir Khan,Medium,3,To Do,2025-05-18,2025-05-22,,Operations,Medium,13,0,Environment Issue,2025-05-11,2025-05-24,0,Yes,0
+APT-0433,Customer Onboarding Automation,Sprint 09 - 2025,Arjun Menon,Low,13,To Do,2025-05-01,2025-05-07,,Operations,Low,64,0,Dependency Blocker,2025-04-27,2025-05-10,0,Yes,0
+APT-0434,API Reliability Upgrade,Sprint 03 - 2025,Meera Nair,Medium,3,Done,2025-02-02,2025-02-12,2025-02-14,Operations,Medium,19,23,Scope Clarification,2025-02-02,2025-02-15,11,Yes,1
+APT-0435,Billing Workflow Optimization,Sprint 04 - 2025,Aarav Mehta,High,3,Done,2025-02-16,2025-02-25,2025-02-26,Engineering,High,22,34,Dependency Blocker,2025-02-16,2025-03-01,9,Yes,1
+APT-0436,Mobile Experience Improvements,Sprint 09 - 2025,Kabir Khan,Critical,3,Done,2025-04-29,2025-05-07,2025-05-05,Customer Success,Low,14,17,None,2025-04-27,2025-05-10,5,No,1
+APT-0437,Data Quality Remediation,Sprint 09 - 2025,Rohan Gupta,Medium,2,Testing,2025-05-03,2025-05-12,,Operations,Low,8,7,Resource Constraint,2025-04-27,2025-05-10,0,Yes,0
+APT-0438,User Access Governance,Sprint 10 - 2025,Arjun Menon,High,2,To Do,2025-05-17,2025-05-29,,QA,Low,11,0,Scope Clarification,2025-05-11,2025-05-24,0,Yes,0
+APT-0439,User Access Governance,Sprint 10 - 2025,Kabir Khan,Low,3,Done,2025-05-17,2025-05-24,2025-05-26,Operations,High,21,29,Requirement Change,2025-05-11,2025-05-24,8,Yes,1
+APT-0440,Billing Workflow Optimization,Sprint 03 - 2025,Kabir Khan,Medium,5,Done,2025-02-06,2025-02-10,2025-02-10,QA,Low,29,25,None,2025-02-02,2025-02-15,3,No,1
+APT-0441,Stakeholder Notification Service,Sprint 08 - 2025,Neha Verma,High,8,Done,2025-04-17,2025-04-25,2025-04-24,Engineering,Low,35,35,None,2025-04-13,2025-04-26,6,No,1
+APT-0442,Sprint Reporting Hub,Sprint 09 - 2025,Rohan Gupta,Critical,13,To Do,2025-05-04,2025-05-08,,Customer Success,Low,74,0,UAT Feedback,2025-04-27,2025-05-10,0,Yes,0
+APT-0443,Data Quality Remediation,Sprint 06 - 2025,Zoya Fernandes,Medium,5,Done,2025-03-18,2025-03-30,2025-03-30,QA,High,30,46,None,2025-03-16,2025-03-29,11,No,1
+APT-0444,Billing Workflow Optimization,Sprint 01 - 2025,Kabir Khan,Low,5,Done,2025-01-11,2025-01-19,2025-01-19,Engineering,Medium,28,39,None,2025-01-05,2025-01-18,7,No,1
+APT-0445,Backlog Prioritization Framework,Sprint 08 - 2025,Isha Sharma,Low,2,Done,2025-04-15,2025-04-22,2025-04-22,Data Analytics,Low,11,13,None,2025-04-13,2025-04-26,6,No,1
+APT-0446,Operations SLA Dashboard,Sprint 08 - 2025,Aarav Mehta,Low,8,Testing,2025-04-18,2025-04-27,,Engineering,High,42,53,Requirement Change,2025-04-13,2025-04-26,0,Yes,0
+APT-0447,Data Quality Remediation,Sprint 06 - 2025,Meera Nair,Low,8,Done,2025-03-18,2025-03-21,2025-03-21,QA,Medium,42,45,None,2025-03-16,2025-03-29,2,No,1
+APT-0448,Sprint Reporting Hub,Sprint 04 - 2025,Isha Sharma,Medium,5,Done,2025-02-18,2025-02-23,2025-02-23,Engineering,Low,24,29,None,2025-02-16,2025-03-01,4,No,1
+APT-0449,Stakeholder Notification Service,Sprint 12 - 2025,Arjun Menon,Medium,1,Done,2025-06-11,2025-06-14,2025-06-12,Engineering,Medium,4,4,None,2025-06-08,2025-06-21,1,No,1
+APT-0450,Sprint Reporting Hub,Sprint 05 - 2025,Arjun Menon,Medium,1,Done,2025-03-07,2025-03-17,2025-03-17,Operations,Low,4,5,None,2025-03-02,2025-03-15,9,No,1
+APT-0451,Mobile Experience Improvements,Sprint 07 - 2025,Isha Sharma,Medium,3,Testing,2025-03-30,2025-04-04,,Operations,Medium,11,12,Requirement Change,2025-03-30,2025-04-12,0,Yes,0
+APT-0452,User Access Governance,Sprint 07 - 2025,Arjun Menon,High,3,Done,2025-04-02,2025-04-05,2025-04-05,Product,Low,18,22,None,2025-03-30,2025-04-12,2,No,1
+APT-0453,Backlog Prioritization Framework,Sprint 06 - 2025,Ananya Rao,Medium,5,Done,2025-03-22,2025-03-31,2025-03-31,Engineering,Low,27,31,None,2025-03-16,2025-03-29,8,No,1
+APT-0454,Customer Onboarding Automation,Sprint 04 - 2025,Ananya Rao,High,3,To Do,2025-02-22,2025-03-02,,Operations,Low,11,0,Environment Issue,2025-02-16,2025-03-01,0,Yes,0
+APT-0455,Backlog Prioritization Framework,Sprint 02 - 2025,Rohan Gupta,High,3,Done,2025-01-19,2025-01-25,2025-01-26,Operations,Low,16,14,Scope Clarification,2025-01-19,2025-02-01,6,Yes,1
+APT-0456,User Access Governance,Sprint 04 - 2025,Zoya Fernandes,Medium,3,Done,2025-02-20,2025-02-27,2025-03-01,Product,Medium,12,11,Scope Clarification,2025-02-16,2025-03-01,8,Yes,1
+APT-0457,Backlog Prioritization Framework,Sprint 04 - 2025,Arjun Menon,Low,1,Testing,2025-02-22,2025-02-27,,Product,Medium,4,3,Dependency Blocker,2025-02-16,2025-03-01,0,Yes,0
+APT-0458,Customer Onboarding Automation,Sprint 05 - 2025,Zoya Fernandes,High,3,Done,2025-03-05,2025-03-10,2025-03-11,Data Analytics,High,23,25,Scope Clarification,2025-03-02,2025-03-15,5,Yes,1
+APT-0459,Customer Onboarding Automation,Sprint 07 - 2025,Arjun Menon,Low,13,In Progress,2025-04-02,2025-04-14,,Product,High,65,48,Resource Constraint,2025-03-30,2025-04-12,0,Yes,0
+APT-0460,Operations SLA Dashboard,Sprint 03 - 2025,Ananya Rao,Low,2,In Progress,2025-02-04,2025-02-12,,Customer Success,Low,7,4,Dependency Blocker,2025-02-02,2025-02-15,0,Yes,0
+APT-0461,Billing Workflow Optimization,Sprint 02 - 2025,Rohan Gupta,Medium,1,Done,2025-01-25,2025-01-29,2025-01-31,Operations,Medium,6,7,Environment Issue,2025-01-19,2025-02-01,5,Yes,1
+APT-0462,Stakeholder Notification Service,Sprint 11 - 2025,Aarav Mehta,High,5,Done,2025-05-29,2025-06-08,2025-06-08,Data Analytics,Low,24,23,None,2025-05-25,2025-06-07,9,No,1
+APT-0463,Billing Workflow Optimization,Sprint 12 - 2025,Zoya Fernandes,High,2,To Do,2025-06-13,2025-06-21,,QA,Low,11,0,Scope Clarification,2025-06-08,2025-06-21,0,Yes,0
+APT-0464,Billing Workflow Optimization,Sprint 10 - 2025,Vikram Singh,Low,8,Done,2025-05-11,2025-05-19,2025-05-19,Operations,Low,41,35,None,2025-05-11,2025-05-24,7,No,1
+APT-0465,Customer Onboarding Automation,Sprint 02 - 2025,Arjun Menon,Low,8,Testing,2025-01-22,2025-01-30,,Engineering,Low,31,22,Requirement Change,2025-01-19,2025-02-01,0,Yes,0
+APT-0466,Billing Workflow Optimization,Sprint 05 - 2025,Meera Nair,High,5,Done,2025-03-08,2025-03-17,2025-03-18,Engineering,Low,25,27,Environment Issue,2025-03-02,2025-03-15,9,Yes,1
+APT-0467,Operations SLA Dashboard,Sprint 12 - 2025,Ananya Rao,Critical,3,Done,2025-06-12,2025-06-16,2025-06-16,Product,Medium,19,20,None,2025-06-08,2025-06-21,3,No,1
+APT-0468,Operations SLA Dashboard,Sprint 05 - 2025,Neha Verma,Low,1,Done,2025-03-02,2025-03-10,2025-03-12,Engineering,Medium,5,4,UAT Feedback,2025-03-02,2025-03-15,9,Yes,1
+APT-0469,Backlog Prioritization Framework,Sprint 01 - 2025,Kabir Khan,Critical,3,Done,2025-01-13,2025-01-23,2025-01-22,Engineering,High,17,24,None,2025-01-05,2025-01-18,8,No,1
+APT-0470,Customer Onboarding Automation,Sprint 01 - 2025,Kabir Khan,Critical,1,Done,2025-01-06,2025-01-15,2025-01-15,Customer Success,Medium,8,7,None,2025-01-05,2025-01-18,8,No,1
+APT-0471,Operations SLA Dashboard,Sprint 08 - 2025,Isha Sharma,Low,5,Testing,2025-04-15,2025-04-20,,Product,Medium,22,19,Requirement Change,2025-04-13,2025-04-26,0,Yes,0
+APT-0472,API Reliability Upgrade,Sprint 04 - 2025,Vikram Singh,High,5,In Progress,2025-02-17,2025-02-23,,Data Analytics,Medium,22,17,Scope Clarification,2025-02-16,2025-03-01,0,Yes,0
+APT-0473,Customer Onboarding Automation,Sprint 10 - 2025,Dev Patel,High,3,Done,2025-05-13,2025-05-16,2025-05-16,Product,Medium,19,21,None,2025-05-11,2025-05-24,2,No,1
+APT-0474,API Reliability Upgrade,Sprint 08 - 2025,Sara Thomas,Critical,8,Testing,2025-04-15,2025-04-18,,QA,Low,42,37,Resource Constraint,2025-04-13,2025-04-26,0,Yes,0
+APT-0475,Backlog Prioritization Framework,Sprint 10 - 2025,Rohan Gupta,Medium,13,Done,2025-05-15,2025-05-20,2025-05-21,Data Analytics,Medium,53,51,Environment Issue,2025-05-11,2025-05-24,5,Yes,1
+APT-0476,Mobile Experience Improvements,Sprint 05 - 2025,Aarav Mehta,High,5,Done,2025-03-06,2025-03-11,2025-03-10,Customer Success,Low,20,19,None,2025-03-02,2025-03-15,3,No,1
+APT-0477,Sprint Reporting Hub,Sprint 07 - 2025,Meera Nair,Low,5,Done,2025-04-06,2025-04-11,2025-04-12,QA,Low,25,24,Resource Constraint,2025-03-30,2025-04-12,5,Yes,1
+APT-0478,API Reliability Upgrade,Sprint 07 - 2025,Neha Verma,High,5,Done,2025-04-05,2025-04-16,2025-04-14,Product,Medium,23,21,None,2025-03-30,2025-04-12,8,No,1
+APT-0479,API Reliability Upgrade,Sprint 10 - 2025,Meera Nair,Medium,5,Done,2025-05-11,2025-05-21,2025-05-19,Customer Success,Medium,24,22,None,2025-05-11,2025-05-24,7,No,1
+APT-0480,Billing Workflow Optimization,Sprint 02 - 2025,Rohan Gupta,Medium,1,Testing,2025-01-19,2025-01-28,,Data Analytics,Medium,6,7,UAT Feedback,2025-01-19,2025-02-01,0,Yes,0
+APT-0481,Data Quality Remediation,Sprint 06 - 2025,Vikram Singh,Medium,3,Done,2025-03-23,2025-04-03,2025-04-03,Operations,Low,17,16,None,2025-03-16,2025-03-29,10,No,1
+APT-0482,API Reliability Upgrade,Sprint 10 - 2025,Isha Sharma,Critical,5,Done,2025-05-17,2025-05-24,2025-05-26,Customer Success,Medium,24,27,Environment Issue,2025-05-11,2025-05-24,8,Yes,1
+APT-0483,Customer Onboarding Automation,Sprint 09 - 2025,Sara Thomas,Low,2,Testing,2025-05-04,2025-05-15,,Customer Success,Low,9,8,Dependency Blocker,2025-04-27,2025-05-10,0,Yes,0
+APT-0484,Stakeholder Notification Service,Sprint 02 - 2025,Aarav Mehta,Medium,8,Testing,2025-01-19,2025-01-29,,Operations,Low,41,39,UAT Feedback,2025-01-19,2025-02-01,0,Yes,0
+APT-0485,Stakeholder Notification Service,Sprint 08 - 2025,Vikram Singh,Medium,3,Done,2025-04-17,2025-04-25,2025-04-23,Data Analytics,High,15,17,None,2025-04-13,2025-04-26,5,No,1
+APT-0486,Backlog Prioritization Framework,Sprint 12 - 2025,Ananya Rao,High,1,In Progress,2025-06-12,2025-06-18,,Engineering,Low,6,5,Requirement Change,2025-06-08,2025-06-21,0,Yes,0
+APT-0487,User Access Governance,Sprint 06 - 2025,Vikram Singh,Medium,5,Done,2025-03-20,2025-03-27,2025-03-29,Operations,Medium,22,28,Requirement Change,2025-03-16,2025-03-29,8,Yes,1
+APT-0488,Customer Onboarding Automation,Sprint 06 - 2025,Rohan Gupta,Medium,5,Done,2025-03-17,2025-03-29,2025-03-30,Product,High,27,29,Requirement Change,2025-03-16,2025-03-29,12,Yes,1
+APT-0489,Data Quality Remediation,Sprint 11 - 2025,Zoya Fernandes,Critical,3,Done,2025-05-27,2025-06-05,2025-06-06,Customer Success,High,28,40,Scope Clarification,2025-05-25,2025-06-07,9,Yes,1
+APT-0490,Billing Workflow Optimization,Sprint 03 - 2025,Arjun Menon,High,8,Done,2025-02-07,2025-02-15,2025-02-15,Operations,High,51,56,None,2025-02-02,2025-02-15,7,No,1
+APT-0491,API Reliability Upgrade,Sprint 11 - 2025,Neha Verma,Critical,8,Done,2025-05-25,2025-05-29,2025-05-27,QA,Medium,60,66,None,2025-05-25,2025-06-07,1,No,1
+APT-0492,Data Quality Remediation,Sprint 04 - 2025,Zoya Fernandes,High,5,Done,2025-02-18,2025-03-01,2025-02-27,Data Analytics,Medium,34,41,None,2025-02-16,2025-03-01,8,No,1
+APT-0493,Data Quality Remediation,Sprint 06 - 2025,Sara Thomas,Medium,2,Done,2025-03-21,2025-03-29,2025-03-29,Customer Success,Low,8,7,None,2025-03-16,2025-03-29,7,No,1
+APT-0494,Data Quality Remediation,Sprint 11 - 2025,Kabir Khan,High,2,Done,2025-06-02,2025-06-09,2025-06-11,Customer Success,Medium,11,13,Environment Issue,2025-05-25,2025-06-07,8,Yes,1
+APT-0495,Stakeholder Notification Service,Sprint 06 - 2025,Zoya Fernandes,Medium,1,Done,2025-03-24,2025-03-31,2025-04-05,Customer Success,High,7,8,Scope Clarification,2025-03-16,2025-03-29,11,Yes,1
+APT-0496,Mobile Experience Improvements,Sprint 08 - 2025,Kabir Khan,Critical,3,Done,2025-04-13,2025-04-21,2025-04-19,Engineering,Medium,15,21,None,2025-04-13,2025-04-26,5,No,1
+APT-0497,Billing Workflow Optimization,Sprint 08 - 2025,Vikram Singh,High,1,In Progress,2025-04-19,2025-04-30,,QA,Low,6,3,Dependency Blocker,2025-04-13,2025-04-26,0,Yes,0
+APT-0498,User Access Governance,Sprint 06 - 2025,Rohan Gupta,High,8,Done,2025-03-17,2025-03-22,2025-03-23,Engineering,Medium,32,30,UAT Feedback,2025-03-16,2025-03-29,5,Yes,1
+APT-0499,Billing Workflow Optimization,Sprint 07 - 2025,Ananya Rao,High,5,Done,2025-04-03,2025-04-07,2025-04-09,Engineering,Medium,23,31,Resource Constraint,2025-03-30,2025-04-12,5,Yes,1
+APT-0500,User Access Governance,Sprint 02 - 2025,Sara Thomas,Low,2,Testing,2025-01-27,2025-02-02,,Engineering,Low,6,6,Scope Clarification,2025-01-19,2025-02-01,0,Yes,0
+APT-0501,Billing Workflow Optimization,Sprint 03 - 2025,Aarav Mehta,High,3,Done,2025-02-02,2025-02-14,2025-02-14,Product,Low,12,10,None,2025-02-02,2025-02-15,11,No,1
+APT-0502,API Reliability Upgrade,Sprint 01 - 2025,Dev Patel,Low,8,Done,2025-01-07,2025-01-12,2025-01-12,Engineering,Low,43,53,None,2025-01-05,2025-01-18,4,No,1
+APT-0503,API Reliability Upgrade,Sprint 01 - 2025,Neha Verma,Medium,5,Testing,2025-01-10,2025-01-21,,Engineering,Low,24,18,Resource Constraint,2025-01-05,2025-01-18,0,Yes,0
+APT-0504,Data Quality Remediation,Sprint 03 - 2025,Neha Verma,Medium,1,Done,2025-02-10,2025-02-20,2025-02-20,Data Analytics,Low,5,6,None,2025-02-02,2025-02-15,9,No,1
+APT-0505,Backlog Prioritization Framework,Sprint 05 - 2025,Zoya Fernandes,Medium,3,Done,2025-03-06,2025-03-13,2025-03-14,Product,Medium,12,15,Environment Issue,2025-03-02,2025-03-15,7,Yes,1
+APT-0506,Sprint Reporting Hub,Sprint 11 - 2025,Zoya Fernandes,Low,3,Testing,2025-05-27,2025-06-05,,Data Analytics,High,22,20,Scope Clarification,2025-05-25,2025-06-07,0,Yes,0
+APT-0507,Backlog Prioritization Framework,Sprint 10 - 2025,Kabir Khan,High,3,Done,2025-05-15,2025-05-21,2025-05-22,Product,Low,14,13,Resource Constraint,2025-05-11,2025-05-24,6,Yes,1
+APT-0508,Backlog Prioritization Framework,Sprint 01 - 2025,Dev Patel,High,3,In Progress,2025-01-13,2025-01-19,,Customer Success,Low,17,10,Environment Issue,2025-01-05,2025-01-18,0,Yes,0
+APT-0509,Stakeholder Notification Service,Sprint 07 - 2025,Ananya Rao,High,3,Done,2025-04-06,2025-04-09,2025-04-09,Engineering,Low,11,9,None,2025-03-30,2025-04-12,2,No,1
+APT-0510,Mobile Experience Improvements,Sprint 04 - 2025,Meera Nair,High,8,Done,2025-02-23,2025-03-06,2025-03-06,Data Analytics,Low,34,28,None,2025-02-16,2025-03-01,10,No,1
+APT-0511,API Reliability Upgrade,Sprint 11 - 2025,Rohan Gupta,Low,3,In Progress,2025-05-29,2025-06-06,,QA,Low,12,8,Dependency Blocker,2025-05-25,2025-06-07,0,Yes,0
+APT-0512,Billing Workflow Optimization,Sprint 09 - 2025,Vikram Singh,Medium,1,Done,2025-05-05,2025-05-13,2025-05-16,Data Analytics,Medium,6,6,Requirement Change,2025-04-27,2025-05-10,10,Yes,1
+APT-0513,User Access Governance,Sprint 04 - 2025,Zoya Fernandes,High,3,Done,2025-02-17,2025-02-27,2025-03-01,Operations,Medium,18,20,Scope Clarification,2025-02-16,2025-03-01,11,Yes,1
+APT-0514,Sprint Reporting Hub,Sprint 01 - 2025,Kabir Khan,Medium,3,Done,2025-01-08,2025-01-11,2025-01-09,Customer Success,High,22,32,None,2025-01-05,2025-01-18,1,No,1
+APT-0515,Operations SLA Dashboard,Sprint 12 - 2025,Meera Nair,Medium,3,Testing,2025-06-15,2025-06-25,,Data Analytics,Medium,14,15,Requirement Change,2025-06-08,2025-06-21,0,Yes,0
+APT-0516,Operations SLA Dashboard,Sprint 02 - 2025,Ananya Rao,Medium,1,Testing,2025-01-23,2025-01-31,,Product,Low,4,4,Environment Issue,2025-01-19,2025-02-01,0,Yes,0
+APT-0517,Billing Workflow Optimization,Sprint 10 - 2025,Isha Sharma,Medium,1,Done,2025-05-11,2025-05-22,2025-05-24,Product,Medium,4,5,Environment Issue,2025-05-11,2025-05-24,12,Yes,1
+APT-0518,API Reliability Upgrade,Sprint 09 - 2025,Arjun Menon,Medium,5,To Do,2025-05-03,2025-05-10,,Data Analytics,Low,20,0,Environment Issue,2025-04-27,2025-05-10,0,Yes,0
+APT-0519,Stakeholder Notification Service,Sprint 08 - 2025,Kabir Khan,Critical,5,Done,2025-04-16,2025-04-24,2025-04-22,Customer Success,Medium,36,41,None,2025-04-13,2025-04-26,5,No,1
+APT-0520,Customer Onboarding Automation,Sprint 06 - 2025,Meera Nair,High,8,Done,2025-03-21,2025-03-28,2025-03-28,Data Analytics,Low,44,43,None,2025-03-16,2025-03-29,6,No,1
+APT-0521,Operations SLA Dashboard,Sprint 05 - 2025,Dev Patel,Medium,2,Done,2025-03-08,2025-03-11,2025-03-09,Product,Low,12,13,None,2025-03-02,2025-03-15,1,No,1
+APT-0522,Mobile Experience Improvements,Sprint 12 - 2025,Sara Thomas,Critical,2,In Progress,2025-06-15,2025-06-25,,Data Analytics,Low,8,6,Resource Constraint,2025-06-08,2025-06-21,0,Yes,0
+APT-0523,User Access Governance,Sprint 07 - 2025,Ananya Rao,Critical,8,Done,2025-04-03,2025-04-14,2025-04-12,Customer Success,Low,46,54,None,2025-03-30,2025-04-12,8,No,1
+APT-0524,Data Quality Remediation,Sprint 10 - 2025,Vikram Singh,High,8,Done,2025-05-16,2025-05-28,2025-05-28,Customer Success,High,63,86,None,2025-05-11,2025-05-24,11,No,1
+APT-0525,Customer Onboarding Automation,Sprint 02 - 2025,Isha Sharma,Low,3,Done,2025-01-25,2025-01-31,2025-02-01,Customer Success,Medium,11,14,Resource Constraint,2025-01-19,2025-02-01,6,Yes,1
+APT-0526,Backlog Prioritization Framework,Sprint 07 - 2025,Vikram Singh,Critical,5,Done,2025-04-04,2025-04-13,2025-04-11,Operations,Medium,33,41,None,2025-03-30,2025-04-12,6,No,1
+APT-0527,Customer Onboarding Automation,Sprint 03 - 2025,Rohan Gupta,Critical,5,Done,2025-02-04,2025-02-08,2025-02-10,Product,High,39,43,Environment Issue,2025-02-02,2025-02-15,5,Yes,1
+APT-0528,User Access Governance,Sprint 09 - 2025,Vikram Singh,Medium,2,To Do,2025-04-27,2025-05-04,,Product,Medium,11,0,Dependency Blocker,2025-04-27,2025-05-10,0,Yes,0
+APT-0529,Mobile Experience Improvements,Sprint 04 - 2025,Arjun Menon,Medium,3,Done,2025-02-18,2025-02-21,2025-02-23,Engineering,Medium,13,12,Dependency Blocker,2025-02-16,2025-03-01,4,Yes,1
+APT-0530,Operations SLA Dashboard,Sprint 11 - 2025,Arjun Menon,Medium,3,Done,2025-05-27,2025-06-08,2025-06-08,Product,Low,17,18,None,2025-05-25,2025-06-07,11,No,1
+APT-0531,Data Quality Remediation,Sprint 09 - 2025,Zoya Fernandes,Critical,3,Done,2025-04-30,2025-05-07,2025-05-06,Customer Success,High,17,24,None,2025-04-27,2025-05-10,5,No,1
+APT-0532,Data Quality Remediation,Sprint 07 - 2025,Meera Nair,Critical,3,Done,2025-04-07,2025-04-17,2025-04-16,Operations,Low,12,13,None,2025-03-30,2025-04-12,8,No,1
+APT-0533,Billing Workflow Optimization,Sprint 01 - 2025,Neha Verma,Low,3,Testing,2025-01-09,2025-01-15,,QA,Medium,16,17,Dependency Blocker,2025-01-05,2025-01-18,0,Yes,0
+APT-0534,Sprint Reporting Hub,Sprint 04 - 2025,Meera Nair,Low,2,Done,2025-02-22,2025-03-03,2025-03-04,Product,Low,7,8,Requirement Change,2025-02-16,2025-03-01,9,Yes,1
+APT-0535,Mobile Experience Improvements,Sprint 11 - 2025,Rohan Gupta,High,2,Testing,2025-05-25,2025-05-29,,Data Analytics,Medium,9,8,Scope Clarification,2025-05-25,2025-06-07,0,Yes,0
+APT-0536,Billing Workflow Optimization,Sprint 11 - 2025,Dev Patel,Low,3,Testing,2025-05-26,2025-05-29,,Product,Medium,19,19,Requirement Change,2025-05-25,2025-06-07,0,Yes,0
+APT-0537,Stakeholder Notification Service,Sprint 09 - 2025,Dev Patel,High,3,Done,2025-05-04,2025-05-12,2025-05-13,Operations,Medium,12,13,Requirement Change,2025-04-27,2025-05-10,8,Yes,1
+APT-0538,Sprint Reporting Hub,Sprint 07 - 2025,Meera Nair,Medium,5,In Progress,2025-04-07,2025-04-12,,Customer Success,High,34,26,Environment Issue,2025-03-30,2025-04-12,0,Yes,0
+APT-0539,Sprint Reporting Hub,Sprint 09 - 2025,Isha Sharma,Medium,1,Testing,2025-04-28,2025-05-06,,Customer Success,Low,4,3,Dependency Blocker,2025-04-27,2025-05-10,0,Yes,0
+APT-0540,Backlog Prioritization Framework,Sprint 10 - 2025,Zoya Fernandes,Low,1,Done,2025-05-13,2025-05-21,2025-05-22,Operations,Low,5,6,Resource Constraint,2025-05-11,2025-05-24,8,Yes,1
+APT-0541,Customer Onboarding Automation,Sprint 07 - 2025,Vikram Singh,Medium,3,Done,2025-04-06,2025-04-10,2025-04-10,Operations,High,20,28,None,2025-03-30,2025-04-12,3,No,1
+APT-0542,API Reliability Upgrade,Sprint 01 - 2025,Kabir Khan,High,8,Done,2025-01-06,2025-01-17,2025-01-17,Product,Low,43,42,None,2025-01-05,2025-01-18,10,No,1
+APT-0543,User Access Governance,Sprint 08 - 2025,Neha Verma,High,1,Done,2025-04-13,2025-04-22,2025-04-21,Product,Low,6,7,None,2025-04-13,2025-04-26,7,No,1
+APT-0544,Billing Workflow Optimization,Sprint 02 - 2025,Vikram Singh,Low,5,Done,2025-01-19,2025-01-24,2025-01-22,Data Analytics,Low,19,21,None,2025-01-19,2025-02-01,2,No,1
+APT-0545,Mobile Experience Improvements,Sprint 02 - 2025,Neha Verma,Medium,3,In Progress,2025-01-22,2025-02-02,,Product,Low,17,11,UAT Feedback,2025-01-19,2025-02-01,0,Yes,0
+APT-0546,User Access Governance,Sprint 03 - 2025,Rohan Gupta,Medium,3,Done,2025-02-05,2025-02-12,2025-02-14,Product,Medium,19,23,UAT Feedback,2025-02-02,2025-02-15,8,Yes,1
+APT-0547,Data Quality Remediation,Sprint 08 - 2025,Zoya Fernandes,Low,5,Done,2025-04-21,2025-04-28,2025-04-26,Customer Success,Low,23,19,None,2025-04-13,2025-04-26,4,No,1
+APT-0548,Mobile Experience Improvements,Sprint 04 - 2025,Rohan Gupta,Low,3,To Do,2025-02-21,2025-03-01,,QA,Medium,13,0,UAT Feedback,2025-02-16,2025-03-01,0,Yes,0
+APT-0549,Customer Onboarding Automation,Sprint 04 - 2025,Meera Nair,High,3,Done,2025-02-17,2025-02-22,2025-02-22,Data Analytics,Low,18,15,None,2025-02-16,2025-03-01,4,No,1
+APT-0550,Data Quality Remediation,Sprint 01 - 2025,Sara Thomas,Medium,5,In Progress,2025-01-13,2025-01-21,,Product,Low,27,16,Scope Clarification,2025-01-05,2025-01-18,0,Yes,0
+APT-0551,Data Quality Remediation,Sprint 06 - 2025,Zoya Fernandes,High,5,Done,2025-03-17,2025-03-23,2025-03-23,Operations,Medium,20,23,None,2025-03-16,2025-03-29,5,No,1
+APT-0552,API Reliability Upgrade,Sprint 01 - 2025,Kabir Khan,Medium,8,Done,2025-01-12,2025-01-22,2025-01-24,Product,Low,37,30,Resource Constraint,2025-01-05,2025-01-18,11,Yes,1
+APT-0553,API Reliability Upgrade,Sprint 03 - 2025,Kabir Khan,High,1,Done,2025-02-02,2025-02-05,2025-02-05,Operations,Medium,4,4,None,2025-02-02,2025-02-15,2,No,1
+APT-0554,Mobile Experience Improvements,Sprint 08 - 2025,Ananya Rao,Medium,5,To Do,2025-04-16,2025-04-23,,Customer Success,Medium,29,0,Resource Constraint,2025-04-13,2025-04-26,0,Yes,0
+APT-0555,Customer Onboarding Automation,Sprint 03 - 2025,Zoya Fernandes,Low,2,Done,2025-02-07,2025-02-11,2025-02-11,Engineering,Low,8,8,None,2025-02-02,2025-02-15,3,No,1
+APT-0556,Billing Workflow Optimization,Sprint 01 - 2025,Vikram Singh,Low,3,Done,2025-01-09,2025-01-12,2025-01-12,Customer Success,High,18,23,None,2025-01-05,2025-01-18,2,No,1
+APT-0557,Customer Onboarding Automation,Sprint 07 - 2025,Aarav Mehta,High,3,Done,2025-04-05,2025-04-13,2025-04-13,Product,Low,12,12,None,2025-03-30,2025-04-12,7,No,1
+APT-0558,API Reliability Upgrade,Sprint 09 - 2025,Zoya Fernandes,Medium,3,Done,2025-05-04,2025-05-11,2025-05-11,Product,High,18,24,None,2025-04-27,2025-05-10,6,No,1
+APT-0559,Customer Onboarding Automation,Sprint 09 - 2025,Rohan Gupta,High,8,To Do,2025-05-05,2025-05-12,,Product,Medium,50,0,Requirement Change,2025-04-27,2025-05-10,0,Yes,0
+APT-0560,Backlog Prioritization Framework,Sprint 12 - 2025,Meera Nair,High,2,Done,2025-06-11,2025-06-22,2025-06-24,Data Analytics,High,15,18,Resource Constraint,2025-06-08,2025-06-21,12,Yes,1
+APT-0561,Stakeholder Notification Service,Sprint 12 - 2025,Arjun Menon,Low,1,Done,2025-06-16,2025-06-24,2025-06-22,Data Analytics,Medium,4,5,None,2025-06-08,2025-06-21,5,No,1
+APT-0562,Data Quality Remediation,Sprint 08 - 2025,Kabir Khan,High,5,In Progress,2025-04-17,2025-04-22,,QA,Low,28,10,Requirement Change,2025-04-13,2025-04-26,0,Yes,0
+APT-0563,Stakeholder Notification Service,Sprint 03 - 2025,Vikram Singh,Medium,3,Done,2025-02-04,2025-02-10,2025-02-10,Engineering,Low,17,17,None,2025-02-02,2025-02-15,5,No,1
+APT-0564,Backlog Prioritization Framework,Sprint 06 - 2025,Arjun Menon,Medium,5,Done,2025-03-16,2025-03-26,2025-03-26,Engineering,Low,26,32,None,2025-03-16,2025-03-29,9,No,1
+APT-0565,Backlog Prioritization Framework,Sprint 11 - 2025,Vikram Singh,High,3,Done,2025-05-25,2025-06-04,2025-06-04,Operations,Low,13,12,None,2025-05-25,2025-06-07,9,No,1
+APT-0566,User Access Governance,Sprint 04 - 2025,Rohan Gupta,Critical,2,Done,2025-02-20,2025-02-24,2025-02-22,Engineering,High,16,19,None,2025-02-16,2025-03-01,1,No,1
+APT-0567,Billing Workflow Optimization,Sprint 10 - 2025,Vikram Singh,High,1,Done,2025-05-18,2025-05-29,2025-05-29,Customer Success,Low,6,7,None,2025-05-11,2025-05-24,10,No,1
+APT-0568,Billing Workflow Optimization,Sprint 08 - 2025,Zoya Fernandes,Medium,8,In Progress,2025-04-20,2025-04-26,,Product,High,49,46,UAT Feedback,2025-04-13,2025-04-26,0,Yes,0
+APT-0569,Billing Workflow Optimization,Sprint 06 - 2025,Sara Thomas,Low,3,Done,2025-03-22,2025-03-28,2025-03-28,QA,High,20,28,None,2025-03-16,2025-03-29,5,No,1
+APT-0570,API Reliability Upgrade,Sprint 09 - 2025,Rohan Gupta,High,5,Done,2025-04-30,2025-05-10,2025-05-11,QA,High,24,37,Resource Constraint,2025-04-27,2025-05-10,10,Yes,1
+APT-0571,Data Quality Remediation,Sprint 07 - 2025,Zoya Fernandes,Medium,5,Testing,2025-04-06,2025-04-12,,Data Analytics,High,22,21,Requirement Change,2025-03-30,2025-04-12,0,Yes,0
+APT-0572,API Reliability Upgrade,Sprint 01 - 2025,Aarav Mehta,Low,5,Done,2025-01-12,2025-01-19,2025-01-20,Customer Success,Medium,31,38,UAT Feedback,2025-01-05,2025-01-18,7,Yes,1
+APT-0573,Billing Workflow Optimization,Sprint 04 - 2025,Rohan Gupta,Critical,8,Done,2025-02-22,2025-03-04,2025-03-03,Engineering,High,50,72,None,2025-02-16,2025-03-01,8,No,1
+APT-0574,Sprint Reporting Hub,Sprint 05 - 2025,Kabir Khan,High,5,To Do,2025-03-10,2025-03-15,,Data Analytics,Medium,32,0,Environment Issue,2025-03-02,2025-03-15,0,Yes,0
+APT-0575,Sprint Reporting Hub,Sprint 10 - 2025,Zoya Fernandes,High,8,Done,2025-05-11,2025-05-19,2025-05-19,Engineering,Medium,42,47,None,2025-05-11,2025-05-24,7,No,1
+APT-0576,Sprint Reporting Hub,Sprint 05 - 2025,Rohan Gupta,Medium,3,Done,2025-03-10,2025-03-17,2025-03-16,Product,Low,10,10,None,2025-03-02,2025-03-15,5,No,1
+APT-0577,Customer Onboarding Automation,Sprint 03 - 2025,Meera Nair,Low,2,Done,2025-02-06,2025-02-18,2025-02-20,QA,High,9,10,Scope Clarification,2025-02-02,2025-02-15,13,Yes,1
+APT-0578,Backlog Prioritization Framework,Sprint 04 - 2025,Vikram Singh,Medium,8,Done,2025-02-20,2025-02-27,2025-03-05,Engineering,High,44,65,Requirement Change,2025-02-16,2025-03-01,12,Yes,1
+APT-0579,User Access Governance,Sprint 03 - 2025,Dev Patel,High,3,Done,2025-02-03,2025-02-14,2025-02-12,Data Analytics,Low,19,18,None,2025-02-02,2025-02-15,8,No,1
+APT-0580,Billing Workflow Optimization,Sprint 12 - 2025,Dev Patel,Medium,1,Done,2025-06-10,2025-06-15,2025-06-14,Engineering,Medium,4,5,None,2025-06-08,2025-06-21,3,No,1
+APT-0581,API Reliability Upgrade,Sprint 10 - 2025,Zoya Fernandes,Medium,2,Done,2025-05-11,2025-05-14,2025-05-13,Customer Success,Low,10,12,None,2025-05-11,2025-05-24,1,No,1
+APT-0582,Billing Workflow Optimization,Sprint 02 - 2025,Aarav Mehta,Low,1,Done,2025-01-27,2025-02-06,2025-02-08,Customer Success,Low,6,6,Environment Issue,2025-01-19,2025-02-01,11,Yes,1
+APT-0583,Sprint Reporting Hub,Sprint 07 - 2025,Meera Nair,Medium,3,In Progress,2025-04-01,2025-04-06,,Engineering,Low,15,8,Scope Clarification,2025-03-30,2025-04-12,0,Yes,0
+APT-0584,Customer Onboarding Automation,Sprint 08 - 2025,Neha Verma,High,8,Done,2025-04-16,2025-04-26,2025-04-26,Engineering,Medium,56,66,None,2025-04-13,2025-04-26,9,No,1
+APT-0585,Mobile Experience Improvements,Sprint 02 - 2025,Meera Nair,High,2,Done,2025-01-21,2025-02-02,2025-02-04,QA,Low,13,12,Resource Constraint,2025-01-19,2025-02-01,13,Yes,1
+APT-0586,Sprint Reporting Hub,Sprint 05 - 2025,Sara Thomas,Medium,2,Done,2025-03-04,2025-03-15,2025-03-15,Operations,Low,11,13,None,2025-03-02,2025-03-15,10,No,1
+APT-0587,Operations SLA Dashboard,Sprint 04 - 2025,Dev Patel,High,8,Done,2025-02-18,2025-02-21,2025-02-22,Product,Medium,42,56,Requirement Change,2025-02-16,2025-03-01,3,Yes,1
+APT-0588,Customer Onboarding Automation,Sprint 04 - 2025,Dev Patel,Medium,3,Done,2025-02-16,2025-02-28,2025-02-28,QA,Medium,14,16,None,2025-02-16,2025-03-01,11,No,1
+APT-0589,Sprint Reporting Hub,Sprint 06 - 2025,Aarav Mehta,Medium,2,Done,2025-03-20,2025-03-29,2025-03-30,Engineering,Medium,8,11,Environment Issue,2025-03-16,2025-03-29,9,Yes,1
+APT-0590,Customer Onboarding Automation,Sprint 12 - 2025,Zoya Fernandes,High,3,To Do,2025-06-10,2025-06-18,,Engineering,Low,15,0,UAT Feedback,2025-06-08,2025-06-21,0,Yes,0
+APT-0591,Mobile Experience Improvements,Sprint 06 - 2025,Ananya Rao,Medium,8,Done,2025-03-20,2025-03-27,2025-03-27,Engineering,Low,43,46,None,2025-03-16,2025-03-29,6,No,1
+APT-0592,Sprint Reporting Hub,Sprint 08 - 2025,Meera Nair,Low,1,In Progress,2025-04-19,2025-04-24,,Data Analytics,Medium,4,2,Resource Constraint,2025-04-13,2025-04-26,0,Yes,0
+APT-0593,Mobile Experience Improvements,Sprint 11 - 2025,Zoya Fernandes,Low,5,Testing,2025-05-31,2025-06-07,,Customer Success,Medium,29,29,Resource Constraint,2025-05-25,2025-06-07,0,Yes,0
+APT-0594,Customer Onboarding Automation,Sprint 07 - 2025,Arjun Menon,Medium,8,Done,2025-04-01,2025-04-10,2025-04-10,Product,Low,34,31,None,2025-03-30,2025-04-12,8,No,1
+APT-0595,Billing Workflow Optimization,Sprint 04 - 2025,Isha Sharma,High,5,Done,2025-02-22,2025-02-26,2025-02-26,Operations,Medium,32,34,None,2025-02-16,2025-03-01,3,No,1
+APT-0596,Stakeholder Notification Service,Sprint 10 - 2025,Kabir Khan,High,3,Done,2025-05-13,2025-05-23,2025-05-23,QA,Low,14,13,None,2025-05-11,2025-05-24,9,No,1
+APT-0597,API Reliability Upgrade,Sprint 05 - 2025,Vikram Singh,Critical,5,Done,2025-03-06,2025-03-09,2025-03-12,QA,Medium,25,34,Requirement Change,2025-03-02,2025-03-15,5,Yes,1
+APT-0598,Data Quality Remediation,Sprint 03 - 2025,Neha Verma,Low,3,Done,2025-02-04,2025-02-07,2025-02-08,Data Analytics,Low,9,10,Scope Clarification,2025-02-02,2025-02-15,3,Yes,1
+APT-0599,Customer Onboarding Automation,Sprint 07 - 2025,Neha Verma,High,5,Done,2025-03-31,2025-04-11,2025-04-11,Data Analytics,Low,32,33,None,2025-03-30,2025-04-12,10,No,1
+APT-0600,Billing Workflow Optimization,Sprint 04 - 2025,Neha Verma,Medium,1,Testing,2025-02-23,2025-02-28,,QA,Low,4,3,Requirement Change,2025-02-16,2025-03-01,0,Yes,0
+APT-0601,Data Quality Remediation,Sprint 11 - 2025,Sara Thomas,High,13,In Progress,2025-06-02,2025-06-05,,Product,Low,51,23,Dependency Blocker,2025-05-25,2025-06-07,0,Yes,0
+APT-0602,Operations SLA Dashboard,Sprint 02 - 2025,Sara Thomas,High,8,Done,2025-01-22,2025-01-26,2025-01-28,Data Analytics,High,51,78,Resource Constraint,2025-01-19,2025-02-01,5,Yes,1
+APT-0603,Backlog Prioritization Framework,Sprint 07 - 2025,Kabir Khan,Medium,5,Done,2025-04-04,2025-04-16,2025-04-18,Product,Low,25,28,Resource Constraint,2025-03-30,2025-04-12,13,Yes,1
+APT-0604,Billing Workflow Optimization,Sprint 06 - 2025,Rohan Gupta,Low,3,Testing,2025-03-24,2025-03-30,,Customer Success,Low,16,12,Requirement Change,2025-03-16,2025-03-29,0,Yes,0
+APT-0605,Data Quality Remediation,Sprint 03 - 2025,Rohan Gupta,Medium,2,Done,2025-02-09,2025-02-20,2025-02-18,Product,Low,11,11,None,2025-02-02,2025-02-15,8,No,1
+APT-0606,Sprint Reporting Hub,Sprint 05 - 2025,Neha Verma,Critical,1,Done,2025-03-04,2025-03-11,2025-03-11,Engineering,High,6,9,None,2025-03-02,2025-03-15,6,No,1
+APT-0607,Customer Onboarding Automation,Sprint 05 - 2025,Arjun Menon,Medium,1,Done,2025-03-02,2025-03-11,2025-03-09,Data Analytics,Low,6,6,None,2025-03-02,2025-03-15,6,No,1
+APT-0608,Data Quality Remediation,Sprint 11 - 2025,Sara Thomas,Medium,2,Done,2025-05-30,2025-06-06,2025-06-06,Data Analytics,Medium,9,8,None,2025-05-25,2025-06-07,6,No,1
+APT-0609,Data Quality Remediation,Sprint 06 - 2025,Meera Nair,Medium,3,Done,2025-03-20,2025-03-26,2025-03-25,Operations,High,19,24,None,2025-03-16,2025-03-29,4,No,1
+APT-0610,Customer Onboarding Automation,Sprint 12 - 2025,Rohan Gupta,Low,2,Done,2025-06-16,2025-06-19,2025-06-18,Operations,Low,9,10,None,2025-06-08,2025-06-21,1,No,1
+APT-0611,Data Quality Remediation,Sprint 11 - 2025,Isha Sharma,Medium,3,In Progress,2025-05-26,2025-05-31,,Engineering,Medium,19,14,UAT Feedback,2025-05-25,2025-06-07,0,Yes,0
+APT-0612,User Access Governance,Sprint 02 - 2025,Zoya Fernandes,Low,5,Done,2025-01-27,2025-02-02,2025-02-04,Product,Low,25,21,Resource Constraint,2025-01-19,2025-02-01,7,Yes,1
+APT-0613,Backlog Prioritization Framework,Sprint 10 - 2025,Neha Verma,Low,8,Done,2025-05-19,2025-05-29,2025-05-30,QA,High,58,62,Scope Clarification,2025-05-11,2025-05-24,10,Yes,1
+APT-0614,Customer Onboarding Automation,Sprint 02 - 2025,Rohan Gupta,High,3,In Progress,2025-01-20,2025-01-28,,Engineering,Low,17,12,Resource Constraint,2025-01-19,2025-02-01,0,Yes,0
+APT-0615,Customer Onboarding Automation,Sprint 06 - 2025,Vikram Singh,Medium,3,Done,2025-03-22,2025-03-27,2025-03-29,Customer Success,Low,14,16,Resource Constraint,2025-03-16,2025-03-29,6,Yes,1
+APT-0616,User Access Governance,Sprint 08 - 2025,Dev Patel,High,13,Done,2025-04-17,2025-04-27,2025-04-25,Data Analytics,High,96,141,None,2025-04-13,2025-04-26,7,No,1
+APT-0617,API Reliability Upgrade,Sprint 07 - 2025,Zoya Fernandes,Medium,2,Done,2025-04-04,2025-04-15,2025-04-15,Product,Low,10,11,None,2025-03-30,2025-04-12,10,No,1
+APT-0618,User Access Governance,Sprint 05 - 2025,Aarav Mehta,Low,5,Done,2025-03-06,2025-03-10,2025-03-10,Data Analytics,Low,20,17,None,2025-03-02,2025-03-15,3,No,1
+APT-0619,Mobile Experience Improvements,Sprint 01 - 2025,Dev Patel,High,1,Done,2025-01-07,2025-01-13,2025-01-13,QA,Medium,5,5,None,2025-01-05,2025-01-18,5,No,1
+APT-0620,Data Quality Remediation,Sprint 03 - 2025,Ananya Rao,Medium,3,To Do,2025-02-02,2025-02-11,,Data Analytics,Low,16,0,Environment Issue,2025-02-02,2025-02-15,0,Yes,0

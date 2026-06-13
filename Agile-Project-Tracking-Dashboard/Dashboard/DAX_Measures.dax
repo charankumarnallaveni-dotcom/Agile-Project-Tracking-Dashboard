@@ -1,0 +1,121 @@
+-- Agile Project Tracking Dashboard - DAX Measure Library
+-- Table name expected in Power BI: Agile Tasks
+
+Total Tasks =
+COUNTROWS('Agile Tasks')
+
+Completed Tasks =
+CALCULATE(
+    [Total Tasks],
+    'Agile Tasks'[Task Status] = "Done"
+)
+
+Pending Tasks =
+CALCULATE(
+    [Total Tasks],
+    'Agile Tasks'[Task Status] <> "Done"
+)
+
+Task Completion Rate =
+DIVIDE([Completed Tasks], [Total Tasks], 0)
+
+Sprint Completion Rate =
+DIVIDE(
+    CALCULATE(COUNTROWS('Agile Tasks'), 'Agile Tasks'[Task Status] = "Done"),
+    COUNTROWS('Agile Tasks'),
+    0
+)
+
+Story Points Planned =
+SUM('Agile Tasks'[Story Points])
+
+Story Points Completed =
+CALCULATE(
+    SUM('Agile Tasks'[Story Points]),
+    'Agile Tasks'[Task Status] = "Done"
+)
+
+Story Point Completion Rate =
+DIVIDE([Story Points Completed], [Story Points Planned], 0)
+
+Average Resolution Time =
+AVERAGEX(
+    FILTER('Agile Tasks', 'Agile Tasks'[Task Status] = "Done"),
+    DATEDIFF('Agile Tasks'[Start Date], 'Agile Tasks'[Completion Date], DAY)
+)
+
+Average Cycle Time =
+[Average Resolution Time]
+
+Estimated Hours =
+SUM('Agile Tasks'[Estimated Hours])
+
+Actual Hours =
+SUM('Agile Tasks'[Actual Hours])
+
+Resource Utilization % =
+DIVIDE([Actual Hours], [Estimated Hours], 0)
+
+Team Utilization % =
+[Resource Utilization %]
+
+Overdue Tasks =
+CALCULATE(
+    [Total Tasks],
+    'Agile Tasks'[Is Overdue] = "Yes"
+)
+
+High-Risk Tasks =
+CALCULATE(
+    [Total Tasks],
+    'Agile Tasks'[Risk Level] = "High"
+)
+
+Testing Bottleneck Tasks =
+CALCULATE(
+    [Total Tasks],
+    'Agile Tasks'[Task Status] = "Testing"
+)
+
+In Progress Tasks =
+CALCULATE(
+    [Total Tasks],
+    'Agile Tasks'[Task Status] = "In Progress"
+)
+
+Team Productivity Score =
+VAR CompletionComponent = [Task Completion Rate] * 50
+VAR StoryPointComponent = [Story Point Completion Rate] * 30
+VAR UtilizationComponent =
+    MIN([Resource Utilization %], 1.2) / 1.2 * 20
+RETURN
+    CompletionComponent + StoryPointComponent + UtilizationComponent
+
+Delivery Variance Hours =
+[Actual Hours] - [Estimated Hours]
+
+Delivery Variance % =
+DIVIDE([Delivery Variance Hours], [Estimated Hours], 0)
+
+On-Time Completed Tasks =
+CALCULATE(
+    [Total Tasks],
+    FILTER(
+        'Agile Tasks',
+        'Agile Tasks'[Task Status] = "Done"
+            && 'Agile Tasks'[Completion Date] <= 'Agile Tasks'[Due Date]
+    )
+)
+
+On-Time Delivery Rate =
+DIVIDE([On-Time Completed Tasks], [Completed Tasks], 0)
+
+Remaining Story Points =
+[Story Points Planned] - [Story Points Completed]
+
+Sprint Health Score =
+VAR CompletionScore = [Sprint Completion Rate] * 45
+VAR OnTimeScore = [On-Time Delivery Rate] * 35
+VAR RiskPenalty = DIVIDE([High-Risk Tasks], [Total Tasks], 0) * 20
+RETURN
+    CompletionScore + OnTimeScore + (20 - RiskPenalty)

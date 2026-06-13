@@ -1,0 +1,5 @@
+Scripts/node_modules/
+*.tmp
+~$*.xlsx
+.DS_Store
+Thumbs.db
