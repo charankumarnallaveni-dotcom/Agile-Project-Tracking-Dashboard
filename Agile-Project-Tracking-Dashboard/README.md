@@ -39,11 +39,28 @@ Agile-Project-Tracking-Dashboard/
 │   ├── sprint_analysis_mockup.svg
 │   ├── team_performance_mockup.svg
 │   └── project_health_mockup.svg
+├── Website/
+│   ├── styles.css
+│   └── script.js
 ├── Scripts/
 │   ├── generate_agile_dataset.py
 │   └── generate_agile_dataset.mjs
 └── README.md
 ```
+
+## Portfolio Website
+
+The repository includes a static portfolio website for visualizing the project.
+
+Open the root-level `index.html` file to view:
+
+- Project overview
+- Dashboard mockups
+- KPI summary
+- Downloadable artifacts
+- Resume-ready positioning
+
+When GitHub Pages is enabled, use the root `index.html` as the landing page.
 
 ## Tools Used
 

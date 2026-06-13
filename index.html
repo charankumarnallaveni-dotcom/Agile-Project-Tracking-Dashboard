@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Portfolio website for the Agile Project Tracking Dashboard built with Power BI, Excel, DAX, and Python."
+    />
+    <title>Agile Project Tracking Dashboard</title>
+    <link rel="stylesheet" href="Agile-Project-Tracking-Dashboard/Website/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#overview" aria-label="Agile Project Tracking Dashboard home">
+        <span class="brand-mark">APT</span>
+        <span>Agile Project Tracking Dashboard</span>
+      </a>
+      <nav class="nav" aria-label="Primary navigation">
+        <a href="#dashboard">Dashboard</a>
+        <a href="#kpis">KPIs</a>
+        <a href="#artifacts">Artifacts</a>
+        <a href="#resume">Resume</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" id="overview" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Power BI • Excel • DAX • Python</p>
+          <h1 id="hero-title">Agile Project Tracking Dashboard</h1>
+          <p class="hero-text">
+            A Jira-inspired portfolio project for sprint tracking, backlog monitoring,
+            stakeholder reporting, team utilization, and project health analysis.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="Agile-Project-Tracking-Dashboard/README.md">View README</a>
+            <a class="button secondary" href="Agile-Project-Tracking-Dashboard/Dataset/agile_project_tracking_dataset.xlsx">Download Dataset</a>
+          </div>
+        </div>
+        <div class="hero-visual" aria-label="Executive dashboard preview">
+          <img
+            src="Agile-Project-Tracking-Dashboard/Images/executive_overview_mockup.svg"
+            alt="Executive overview dashboard mockup with Agile KPIs and charts"
+          />
+        </div>
+      </section>
+
+      <section class="metrics-band" aria-label="Project metrics">
+        <div>
+          <span class="metric-value">620</span>
+          <span class="metric-label">Task Records</span>
+        </div>
+        <div>
+          <span class="metric-value">72.6%</span>
+          <span class="metric-label">Completion Rate</span>
+        </div>
+        <div>
+          <span class="metric-value">4</span>
+          <span class="metric-label">Dashboard Pages</span>
+        </div>
+        <div>
+          <span class="metric-value">20+</span>
+          <span class="metric-label">DAX Measures</span>
+        </div>
+      </section>
+
+      <section class="section" id="dashboard">
+        <div class="section-heading">
+          <p class="eyebrow">Interactive Portfolio View</p>
+          <h2>Dashboard Pages</h2>
+        </div>
+        <div class="dashboard-tabs" role="tablist" aria-label="Dashboard mockup selector">
+          <button class="tab active" type="button" data-dashboard="executive">Executive Overview</button>
+          <button class="tab" type="button" data-dashboard="sprint">Sprint Analysis</button>
+          <button class="tab" type="button" data-dashboard="team">Team Performance</button>
+          <button class="tab" type="button" data-dashboard="health">Project Health</button>
+        </div>
+        <div class="dashboard-view">
+          <img
+            id="dashboard-image"
+            src="Agile-Project-Tracking-Dashboard/Images/executive_overview_mockup.svg"
+            alt="Executive Overview dashboard mockup"
+          />
+          <aside class="dashboard-notes" id="dashboard-notes">
+            <h3>Executive Overview</h3>
+            <p>
+              Tracks total tasks, completed tasks, pending work, sprint completion,
+              average cycle time, and team utilization for stakeholder reporting.
+            </p>
+          </aside>
+        </div>
+      </section>
+
+      <section class="section split" id="kpis">
+        <div class="section-heading">
+          <p class="eyebrow">Scrum and Operations Metrics</p>
+          <h2>KPIs Tracked</h2>
+          <p>
+            The dashboard converts sprint and backlog data into clear delivery signals
+            for project coordinators, Scrum interns, and business analysts.
+          </p>
+        </div>
+        <div class="kpi-grid">
+          <article><strong>Sprint Completion Rate</strong><span>Measures sprint delivery against committed task volume.</span></article>
+          <article><strong>Story Points Completed</strong><span>Tracks delivery effort beyond raw task counts.</span></article>
+          <article><strong>Average Resolution Time</strong><span>Shows cycle time from start date to completion date.</span></article>
+          <article><strong>Resource Utilization %</strong><span>Compares actual hours against estimated hours.</span></article>
+          <article><strong>Team Productivity Score</strong><span>Blends completion, story point delivery, and utilization.</span></article>
+          <article><strong>Project Health Score</strong><span>Combines completion, on-time delivery, and risk exposure.</span></article>
+        </div>
+      </section>
+
+      <section class="section" id="artifacts">
+        <div class="section-heading">
+          <p class="eyebrow">GitHub-Ready Deliverables</p>
+          <h2>Project Artifacts</h2>
+        </div>
+        <div class="artifact-list">
+          <a href="Agile-Project-Tracking-Dashboard/Dataset/agile_project_tracking_dataset.xlsx">
+            <span>Excel Dataset</span>
+            <small>620 Agile task records with sprint, risk, hour, and status fields</small>
+          </a>
+          <a href="Agile-Project-Tracking-Dashboard/Dashboard/DAX_Measures.dax">
+            <span>DAX Measure Library</span>
+            <small>Professional Power BI measures for Agile KPI monitoring</small>
+          </a>
+          <a href="Agile-Project-Tracking-Dashboard/Dashboard/PowerBI_Implementation_Guide.md">
+            <span>Power BI Build Guide</span>
+            <small>Page-by-page dashboard instructions and visual recommendations</small>
+          </a>
+          <a href="Agile-Project-Tracking-Dashboard/Documentation/Project_Documentation.md">
+            <span>Project Documentation</span>
+            <small>Business problem, objectives, insights, and recommendations</small>
+          </a>
+        </div>
+      </section>
+
+      <section class="section resume-section" id="resume">
+        <div>
+          <p class="eyebrow">Resume Positioning</p>
+          <h2>Built for Scrum, Project Coordination, Operations, and BA Roles</h2>
+          <p>
+            This project demonstrates Agile methodology, sprint planning, backlog tracking,
+            stakeholder reporting, KPI monitoring, workflow optimization, and project delivery analysis.
+          </p>
+        </div>
+        <div class="resume-box">
+          <h3>Resume Bullet</h3>
+          <p>
+            Developed a Jira-inspired Agile Project Tracking Dashboard using Excel, Power BI,
+            and DAX to monitor sprint progress, backlog status, task completion, resource
+            utilization, project risks, and stakeholder reporting KPIs across 620 simulated
+            Agile task records.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <span>Agile Project Tracking Dashboard</span>
+      <a href="Agile-Project-Tracking-Dashboard/Documentation/Resume_and_GitHub_Profile_Content.md">Resume Content</a>
+    </footer>
+
+    <script src="Agile-Project-Tracking-Dashboard/Website/script.js"></script>
+  </body>
+</html>
